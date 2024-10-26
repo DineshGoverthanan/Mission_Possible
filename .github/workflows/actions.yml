@@ -1,31 +1,33 @@
 name: Run Jama API Script
 
 on:
-  workflow_dispatch:  # Allows manual trigger; use "push" or "schedule" as needed.
+  push:
+    branches:
+      - main  # Change this to the branch you want to trigger the action on
 
 jobs:
-  run-jama-script:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.9'  # Change this to your desired Python version
 
       - name: Install dependencies
         run: |
-          python -m venv .venv
-          source .venv/bin/activate
-          pip install -r ../requirement.txt  # Use ../ to go up to the root directory
+          python -m pip install --upgrade pip
+          pip install pandas py-jama-rest-client xlsxwriter
 
-      - name: Run Jama API script
-        env:
-          JAMA_CLIENT_ID: ${{ secrets.JAMA_CLIENT_ID }}
-          JAMA_CLIENT_SECRET: ${{ secrets.JAMA_CLIENT_SECRET }}
+      - name: Set environment variables
         run: |
-          source .venv/bin/activate
-          python ../kpi.py  # Use ../ to go up to the root directory
+          echo "JAMA_CLIENT_ID=${{ secrets.JAMA_CLIENT_ID }}" >> $GITHUB_ENV
+          echo "JAMA_CLIENT_SECRET=${{ secrets.JAMA_CLIENT_SECRET }}" >> $GITHUB_ENV
+
+      - name: Run the script
+        run: |
+          python your_script.py  # Replace with the name of your Python script
