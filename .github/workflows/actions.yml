@@ -26,6 +26,7 @@ jobs:
         env:
           JAMA_CLIENT_ID: ${{ secrets.JAMA_CLIENT_ID }}
           JAMA_CLIENT_SECRET: ${{ secrets.JAMA_CLIENT_SECRET }}
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true  # Added to ensure Node 20 is used
         run: |
           source .venv/bin/activate
           python kpi.py  # Update with actual path to your script
