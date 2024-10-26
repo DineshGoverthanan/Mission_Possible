@@ -20,13 +20,12 @@ jobs:
         run: |
           python -m venv .venv
           source .venv/bin/activate
-          pip install -r requirements.txt
+          pip install -r ../requirement.txt  # Adjusted the path to reach requirement.txt
 
       - name: Run Jama API script
         env:
           JAMA_CLIENT_ID: ${{ secrets.JAMA_CLIENT_ID }}
           JAMA_CLIENT_SECRET: ${{ secrets.JAMA_CLIENT_SECRET }}
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true  # Added to ensure Node 20 is used
         run: |
           source .venv/bin/activate
-          python kpi.py  # Update with actual path to your script
+          python ../kpi.py  # Update with actual path to your script if necessary
