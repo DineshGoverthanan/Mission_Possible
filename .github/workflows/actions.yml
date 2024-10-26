@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"  # Set a username for the commit
           git config --global user.email "github-actions@github.com"  # Set an email for the commit
-          git add kp_data.csv defect_data.csv testrun_data.csv  # Add the generated CSV files to the commit
+          git add kp_data.csv defect_data.csv testrun_data.json  # Add the generated CSV files to the commit
           git commit -m "Update KPI and defect data CSV files" || echo "No changes to commit"  # Commit the changes
           git push  # Push the changes to the main branch
         env:
