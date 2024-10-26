@@ -140,10 +140,10 @@ testrun_extracted_data = []
 for item in testrun_data:
     fields = item.get("fields", {})
     testrun_extracted_data.append({
-        "Document Key": fields.get("documentKey"),
-        "Name": fields.get("name"),
         "TestRunStatus": fields.get("testRunStatus"),
         "ExecutionDate": fields.get("executionDate"),
+        "Document Key": fields.get("documentKey"),
+        "Name": fields.get("name"),
         "Assigned To": user_dict.get(fields.get("assignedTo")),
 
 
