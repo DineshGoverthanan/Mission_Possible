@@ -20,7 +20,7 @@ jobs:
         run: |
           python -m venv .venv
           source .venv/bin/activate
-          pip install -r ../requirement.txt  # Adjusted the path to reach requirement.txt
+          pip install -r ../requirement.txt  # Use ../ to go up to the root directory
 
       - name: Run Jama API script
         env:
@@ -28,4 +28,4 @@ jobs:
           JAMA_CLIENT_SECRET: ${{ secrets.JAMA_CLIENT_SECRET }}
         run: |
           source .venv/bin/activate
-          python ../kpi.py  # Update with actual path to your script if necessary
+          python ../kpi.py  # Use ../ to go up to the root directory
