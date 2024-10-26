@@ -1,0 +1,91 @@
+import pandas as pd
+import json
+from openpyxl import load_workbook
+from py_jama_rest_client.client import JamaClient
+from config import client_ID,client_Secret
+
+def dictionary_finder(dictionary, key_to_find):
+    """Recursively find key in dictionary that contains dictionaries.
+
+    Args:
+        dictionary (dict): Dict to search.
+        key_to_find: Key to find the value to.
+
+    Returns:
+        Value corresponding to key if found, else None.
+    """
+    if isinstance(dictionary, dict):
+        if key_to_find in dictionary:
+            return dictionary[key_to_find]
+        for value in dictionary.values():
+            if isinstance(value, dict):
+                return_value = dictionary_finder(value, key_to_find)
+                if return_value is not None:
+                    return return_value
+    return None
+
+# Jama client setup
+host_domain = "https://konerqm.jamacloud.com"
+filter_id = 6017
+project_id = 229
+
+client = JamaClient(
+    host_domain=host_domain,
+    credentials=(client_ID, client_Secret),
+    oauth=True,
+)
+# Assuming `client` is an instance of JamaClient
+    # Get all projects
+
+# Get data from the Jama filter
+data = client.get_filter_results(filter_id)
+#print(json.dumps(data,indent=4))
+
+# Define the data you want to extract and store in Excel
+extracted_data = []
+for item in data:
+    fields = item.get("fields", {})
+    print(fields)
+    extracted_data.append({
+        #"ID": item.get("id"),
+        "Document Key": fields.get("documentKey"),
+        "Name": fields.get("name"),
+        #"Status": fields.get("status"),
+        #"Component": fields.get("BUG_component$154"),
+        "Created By": client.get_user(fields.get("createdBy"))["firstName"],
+        #"Assigned To": fields.get("assignedTo"),
+        #"Release": fields.get("release"),
+        "Found in Build": fields.get("BUG_foundInBuild$154"),
+        "Found On Date": fields.get("BUG_foundOnDate$154"),
+    })
+
+# Convert to DataFrame
+df = pd.DataFrame(extracted_data)
+
+# Write to Excel file
+excel_file_path1 = 'excel_op.xlsx'
+#excel_file_path2 = r'T:\Dinesh G\excel_op.xlsx'
+df.to_excel(excel_file_path1, index=False)
+#df.to_excel(excel_file_path2, index=False)
+
+# Adjust column widths
+wb = load_workbook(excel_file_path1)
+ws = wb.active
+
+for column in ws.columns:
+    max_length = 0
+    column = list(column)
+    for cell in column:
+        try:
+            if len(str(cell.value)) > max_length:
+                max_length = len(cell.value)
+        except TypeError:
+            pass
+    adjusted_width = (max_length + 2)
+    ws.column_dimensions[column[0].column_letter].width = adjusted_width
+
+# Save the adjusted Excel file
+wb.save(excel_file_path1)
+#wb.save(excel_file_path2)
+
+print(f"Data has been successfully written to {excel_file_path1}")
