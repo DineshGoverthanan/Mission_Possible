@@ -30,4 +30,4 @@ jobs:
 
       - name: Run the script
         run: |
-          python your_script.py  # Replace with the name of your Python script
+          python kp.py  # Replace with the name of your Python script
