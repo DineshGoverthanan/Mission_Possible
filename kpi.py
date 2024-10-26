@@ -149,7 +149,8 @@ for item in testrun_data:
 df_testruns = pd.DataFrame(testrun_extracted_data)
 
 # Export the dataframes to an Excel file with multiple sheets
-output_file = "kp_data.xlsx"
+output_file = "output/kp_data.xlsx"  # Specify a subdirectory to save the file
+os.makedirs(os.path.dirname(output_file), exist_ok=True)  # Create the directory if it doesn't exist
 with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
     df_kp.to_excel(writer, sheet_name='KP', index=False)
     df_defects.to_excel(writer, sheet_name='Defect', index=False)
