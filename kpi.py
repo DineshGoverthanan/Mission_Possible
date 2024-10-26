@@ -142,9 +142,11 @@ for item in testrun_data:
     testrun_extracted_data.append({
         "Document Key": fields.get("documentKey"),
         "Name": fields.get("name"),
-        "Assigned To": user_dict.get(fields.get("assignedTo")),
         "TestRunStatus": fields.get("testRunStatus"),
         "ExecutionDate": fields.get("executionDate"),
+        "Assigned To": user_dict.get(fields.get("assignedTo")),
+
+
     })
 
 df_testruns = pd.DataFrame(testrun_extracted_data)
