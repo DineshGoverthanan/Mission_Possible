@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas py-jama-rest-client xlsxwriter
+          pip install pandas py-jama-rest-client
 
       - name: Set environment variables
         run: |
@@ -41,8 +41,8 @@ jobs:
         run: |
           git config --global user.name "github-actions"  # Set a username for the commit
           git config --global user.email "github-actions@github.com"  # Set an email for the commit
-          git add kp_data.xlsx  # Add the generated output file to the commit
-          git commit -m "Update kp_data.xlsx" || echo "No changes to commit"  # Commit the changes
+          git add kp_data.csv defect_data.csv testrun_data.csv  # Add the generated CSV files to the commit
+          git commit -m "Update KPI and defect data CSV files" || echo "No changes to commit"  # Commit the changes
           git push  # Push the changes to the main branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication

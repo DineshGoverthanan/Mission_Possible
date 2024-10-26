@@ -2,7 +2,6 @@ from py_jama_rest_client.client import JamaClient
 import pandas as pd
 import os
 
-
 # Function to extract unique 'assignedTo', 'modifiedBy', and 'createdBy' IDs and return them as a dictionary with names
 def get_user_data(items, user_dict):
     for item in items:
@@ -122,7 +121,7 @@ for user, data in kp_data.items():
 # Convert data to pandas DataFrame for the KPI data
 df_kp = pd.DataFrame(output_data)
 
-# Extract defect data for sheet 2
+# Extract defect data for CSV
 defect_extracted_data = []
 for item in defect_data:
     fields = item.get("fields", {})
@@ -136,7 +135,7 @@ for item in defect_data:
 
 df_defects = pd.DataFrame(defect_extracted_data)
 
-# Extract test run data for sheet 3
+# Extract test run data for CSV
 testrun_extracted_data = []
 for item in testrun_data:
     fields = item.get("fields", {})
@@ -148,11 +147,9 @@ for item in testrun_data:
 
 df_testruns = pd.DataFrame(testrun_extracted_data)
 
-# Export the dataframes to an Excel file with multiple sheets
-output_file = "kp_data.xlsx"  # Specify a subdirectory to save the file
-with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
-    df_kp.to_excel(writer, sheet_name='KP', index=False)
-    df_defects.to_excel(writer, sheet_name='Defect', index=False)
-    df_testruns.to_excel(writer, sheet_name='Test run', index=False)
+# Export the dataframes to CSV files
+df_kp.to_csv("kp_data.csv", index=False)  # KPI data
+df_defects.to_csv("defect_data.csv", index=False)  # Defect data
+df_testruns.to_csv("testrun_data.csv", index=False)  # Test run data
 
-print(f"Data exported to {output_file}")
+print("Data exported to CSV files: kp_data.csv, defect_data.csv, testrun_data.csv")
