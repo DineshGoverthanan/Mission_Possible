@@ -1,0 +1,93 @@
+Document Key,Name,Created By,Found in Build,Found On Date
+KCE-SWBUG-3785,16.4 - Landing calls are not registered after clearing fault codes 1772 or 1773.,Badaganti Sai Prasad,"16.4.50(LD-16.4.0.18, GCD- 16.4.35)",2023-12-28
+KCE-SWBUG-3786,"16.4 -IC Card reader missing fault 1867 active with new IC card 2.0 solution""  ",ARUN KUMAR,"16.4.50 (LD: 16.4.0.18, GCD: 16.4.35)",2024-01-01
+KCE-SWBUG-3790,16.4 - Deactivation output (OPT 105 output 4) stays on after completion of roll call.,Badaganti Sai Prasad,"16.4.50 (LD-16.4.0.18, GCD - 16.4.35)",2024-01-03
+KCE-SWBUG-3796,Service Tool 4.5 - when activate Test Generator mode via Promanager active calls are not showing,ARUN KUMAR,4.5.192.6548,2024-01-04
+KCE-SWBUG-3802,"16.4 LD - Display Signalization - Character "" < "" is Not Displayed as Floor Marking in Mondrian Display",Suryanarayanan,"KCE 16.4.50 (LD: 16.4.0.18, GCD: 16.4.35)",2024-01-07
+KCE-SWBUG-3805,"16.4 LD - Display Signalization - ""O"" & ""0"" are displayed identical as ""0""  in Mondrian Display Floor Marking ",Suryanarayanan,"KCE 16.4.50 (LD: 16.4.0.18, GCD: 16.4.35)",2024-01-08
+KCE-SWBUG-3814,"16.4 LD - PIN Code - ""C1, C2..."" PIN Code Entry Indications are Not Displayed in Mondrian Display",Suryanarayanan,"KCE 16.4.50 (LD: 16.4.0.18, GCD: 16.4.35)",2024-01-10
+KCE-SWBUG-3817,16.4 LD - Display Signalization - Mode Indication's Secondary Language displays Prior to Primary Language in Car & in Landing Display,Suryanarayanan,"KCE 16.4.50 (LD: 16.4.0.18, GCD: 16.4.35)",2024-01-11
+KCE-SWBUG-3845,16.4 - EPS G Elevator doesn't stops at nearest floor when return permission is deactivated in KCEOPT,Vivek,"KCE 16.4.55 (LD: 16.4.0.20, GCD: 16.4.37)",2024-01-21
+KCE-SWBUG-3855,16.4 - DCS - Site Manager doesn't cancels the SW update when the cancel option is pressed.,Vivek,"KCE 16.4.56 (LD: 16.4.0.20, GCD: 16.4.37)",2024-01-21
+KCE-SWBUG-3871,16.4 - CPI The LCD display (Epsilon) getting malfunction for some special characters @ ( ) $ % in KNSMUL KCOP,Vivek,"KCE 16.4.56 (LD: 16.4.0.20, GCD: 16.4.37)",2024-01-23
+KCE-SWBUG-3874,"16.4 - CPI - The LCD display gets empty when exclamation "" ! "" set as floor marking with KNSMUL KCOP",Vivek,"KCE 16.4.56 (LD: 16.4.0.20, GCD: 16.4.37)",2024-01-23
+KCE-SWBUG-3881,PESSRAL 4.2: SSA Traffic lights - Pit Safety Device LED indication is not activated.,Harini Sri,P4.2-TR14 - CPU 16.4.0.20,2024-01-28
+KCE-SWBUG-3888,16.4 - EPSG-Lift doesn't follow the return timout (90s) when RDF is enabled in Lift,Vivek,"KCE 16.4.60 (LD: 16.4.0.21, GCD: 16.4.41.3 GCH 16.4.41.3)",2024-01-31
+KCE-SWBUG-3911,16.4 - DCS - The DOP's are went to disconnected state in site manager even though it is working physically.,Vivek,"KCE 16.4.60 (LD: 16.4.0.21, GCD: 16.4.41.3 GCH 16.4.41.3)",2024-02-04
+KCE-SWBUG-3914,16.4 - OPT 105 output 4 state is shown wrongly in Promanager.,Badaganti Sai Prasad,"16.4.63(LD - 16.4.1.1, GCD - 16.4.43)",2024-02-07
+KCE-SWBUG-3923,16.4 - PIO - Dot matrix Display -Overload Buzzer indication is not working (X3/2),Shrividhya,"KCE 16.4.65 (LD: 16.4.1.3, GCD: 16.4.43)",2024-02-11
+KCE-SWBUG-3932,PDX 3.2 DRIVE PARAMETER 96-NAME NOT VISIBLE IN PROMANAGER 4.5.193,Priyavalli,,2024-02-13
+KCE-SWBUG-3933,16.4 LD - PIO - Input Indications are not Shown with DIP 3A in Service Tool's LON Network,Suryanarayanan,4.5.193.6567,2024-02-13
+KCE-SWBUG-3936,16.4 - FPO A - Pre allocated landing call light is lid always in FPO A elevator,Shrividhya,"KCE 16.4.62 (LD: 16.4.1.1, GCD: 16.4.42)",2024-02-12
+KCE-SWBUG-3944,16.4 - EPS G - The OPT output's are chattering when the return permission is activated ,Vivek,"KCE 16.4.65 (LD: 16.4.1.3, GCD: 16.4.43)",2024-02-14
+KCE-SWBUG-3968,16.4- DBR C (CPUc - XD4) - DBR C test failed and post-1755 fault code with Data2 - Severe Fault was not thrown while removing the XD4 connector from CPUc,Shrividhya,"KCE 16.4.67 (LD: 16.4.1.4, GCD: 16.4.43)",2024-02-25
+KCE-SWBUG-3972,16.4 - DBR C  (CPUc - XD4) - XD4 interface is not supervised while remove the XD4 connector from CPUc ,Shrividhya,"KCE 16.4.67 (LD: 16.4.1.4, GCD: 16.4.43)",2024-02-26
+KCE-SWBUG-3976,16.4- DBR C (CPUc - XD4) - The 1755 with Data 3 ( Test pass signal error)fault code was cleared after power cycle,Shrividhya,"KCE 16.4.67 (LD: 16.4.1.4, GCD: 16.4.43)",2024-02-28
+KCE-SWBUG-4003,16.4 - KSSLMUL - In EAQ mode both OSI and EAQ indications are shown in KSSL segment display.,Badaganti Sai Prasad,16.4.67,2024-03-06
+KCE-SWBUG-4004,16.4 - KSSMUL - When EAQ mode is triggered OSI indication comes for a second in LCD Display,Badaganti Sai Prasad,,2024-03-06
+KCE-SWBUG-4005,16.4_Serial door: 1605/1608 fault code not activated when disconnect the Communication cable between CCG to Serial door ,Prakash,16.4.67,2024-03-07
+KCE-SWBUG-4013,4.5 Service Tool  - PDX drive Fault code #6171 description not showing ,ARUN KUMAR,ProManager 4.5.196.6610 & AMC 4.5.204.6610,2024-03-06
+KCE-SWBUG-4043,"16.4: KSSMUL-When overload is activated.,car display is flashing Overload and out of service simultaneously.",VIGNESHWARAR,16.4.67,2024-03-13
+KCE-SWBUG-4044,"16.4: KNSKIB& KSSKIB-When FRD input is triggered,both FRD and OSI Pilot light indications are blinking at the same time",VIGNESHWARAR,16.4.67,2024-03-13
+KCE-SWBUG-4045,"16.4 KNSMUL-Pilot light indication is not blinking when OLF, LOC feature is activated and also LAC UP and down indication buttons are not working.",VIGNESHWARAR,16.4.67,2024-03-10
+KCE-SWBUG-4048,4.5 Service Tool - ProManger connection was disconnected while Importing the LD and GCD softwares,ARUN KUMAR,4.5.196.6610,2024-03-18
+KCE-SWBUG-4096,"IC CARD READER 2.0 - ""FLOOR REGISTERED"" INFORMATION DOES NOT SHOWING IN THE TFT LCD DISPALY (BST) IN HANDICAP COP(KCOP)",ARUN KUMAR,"16.4.78(LD: 16.4.1.9, GCD: 16.4.61)",2024-04-07
+KCE-SWBUG-4097,IC CARD READER 2.0 - CAR CALLS REGISTERED FLOOR NUMBER ANNOUNCEMENT WAS MISSING IN KCOP,ARUN KUMAR,"16.4.78(LD: 16.4.1.9, GCD: 16.4.61)",2024-04-07
+KCE-SWBUG-4098,IC CARD READER 2.0 -   ‘Please swipe your card to enter this floor’ INFORMATION MISSING WHEN GIVING CAR CALL TO  LOCKED FLOOR,ARUN KUMAR,"16.4.78(LD: 16.4.1.9, GCD: 16.4.61)",2024-04-07
+KCE-SWBUG-4110,16.4 - EPSG - Elevator doesn't stops at nearby floor when return permission is deactivated(Conventional Group)),Vivek,"16.4.78 (LD: 16.4.1.9, GCD: 16.4.61)",2024-04-02
+KCE-SWBUG-4111,16.4 - DBR C - XD4 - The DBRC Test passed on the second attempt when the Simulator status transitioned to inspection mode while a Manual DBRC was in progress.,Shrividhya,"KCE 16.4.78 (LD: 16.4.1.9, GCD: 16.4.61)",2024-04-04
+KCE-SWBUG-4118,KCE PDX - Lift doesn't run further After updating the new PDX sw 24.12 ,ARUN KUMAR,"16.4.78 (LD: 16.4.1.9, GCD: 16.4.61) KCEPDX 24.12.",2024-04-07
+KCE-SWBUG-4130,16.4 - DBRC - Service Tool - 1247 (DBR C Test enable)parameter is not visible in AMC & ProManager with SUB-CONTRACTOR License ,Shrividhya,"KCE 16.4.79 (LD: 16.4.1.10, GCD: 16.4.61)",
+KCE-SWBUG-4136,"16.4 LD - FRD BE Phase 1 - KCECOB & KCECEB - Buzzer Doesn't Turns Off When ""263 test switch is Enabled"" after Reaching FRD Return Floor   ",Shrividhya,"KCE 16.4.79 (LD: 16.4.1.10, GCD: 16.4.61)",2024-04-11
+KCE-SWBUG-4139,16.4 - FRD Announcement not working properly in Induction Loop when the high volume is set.,Vivek,16.4.79(LD 16.4.1.10 GCD 16.4.61),2024-04-10
+KCE-SWBUG-4141,16.4 - NHC - BFCB - 1803 fault code was not thrown when remove XF13 Connection (SDM Inputs) from BFCB during power cycle,Shrividhya,"KCE 16.4.79 (LD: 16.4.1.10, GCD: 16.4.61)",2024-04-14
+KCE-SWBUG-4147,4.5 SERVICE TOOL - KCE PDX DRIVE FAULT CODE #6900 DESCRIPTION MISSING,ARUN KUMAR,4.5.199.6664,2024-04-14
+KCE-SWBUG-4153,16.4 - Door is not re opening if same floor landing call is given when automatic brake test is initiated during parking with door opened,Badaganti Sai Prasad,16.4.79,2024-04-17
+KCE-SWBUG-4174,16.4 - KDX - Couldn't be able to set the drive parameter 114 when the parameter (95) is in locked state.,Vivek,"KCE 16.4.79 (LD: 16.4.1.10, GCD: 16.4.61)",2024-04-23
+KCE-SWBUG-4188,16.4 - KDX - When manipulating external encoder to make brake test fault causes drive not ok,Vivek,"KCE 16.4.79 (LD: 16.4.1.10, GCD: 16.4.61)",2024-04-23
+KCE-SWBUG-4210,16.6 - SWL M - Out of service indication is not shown in Landing display.,Badaganti Sai Prasad,16.6.0.35,2024-04-28
+KCE-SWBUG-4214,"16.6 - SWL M - ""Evacuate car"" message is not shown in car display.",Badaganti Sai Prasad,16.6.0.35,2024-04-29
+KCE-SWBUG-4217,KCE 16.6 - CDI(Marine) -  Unlocking of the CDI locked floor using OPT 85 INPUT 5 is not possible.(landing call),ARUN KUMAR,"KCE 16.6.0.35 (LD: 16.6.0.7, GCD: 16.6.33)",2024-05-01
+KCE-SWBUG-4219,"16.6 - Lon error LED is blinking in all FCBs, OPTs and PIOs connected in Lon network.",Badaganti Sai Prasad,"16.6.0.35, 16.6.0.42",2024-05-01
+KCE-SWBUG-4220,Service Tool - Statistics - Car Load Measurement Bin Data are Not Shown Completely after Service tool Reboot,Suryanarayanan,"KCE 16.6.0.35 (LD: 16.6.0.7, GCD: 16.6.33)",2024-05-02
+KCE-SWBUG-4242," 16.6.0.7- Service Tool - FOBG30 Shown as ""Unknown Value(79)""  in Service Tool's LON node Network",Suryanarayanan,KCE 16.6.0.7,2024-05-07
+KCE-SWBUG-4249,"16.6 - SWL M - ""Out of service"" indication is shown in Car Display instead of ""Evacuate car"" after power break.",Badaganti Sai Prasad,16.6.0.42,2024-05-07
+KCE-SWBUG-4250,16.6 - SWL M - DOB is inoperative in SWL Evacuation floor if locked floor is set as evacuation floor.,Badaganti Sai Prasad,,2024-05-08
+KCE-SWBUG-4260,16.6 - FID D XD4 Buzzer output (FRD4_Pin 12) function doesn't works when FID input is activated from OPT.,Vivek,"KCE 16.6.0.42 (LD: 16.6.0.8, GCD: 16.6.36)",2024-05-12
+KCE-SWBUG-4281,KCE PDX  _ Drive Software Version mismatch fault code #1155 was activated After NEW PDX SW(24.20) Updated,ARUN KUMAR,"LD: 16.6.0.8,  GCD:16.6.36, PDX: 24.20",2024-05-16
+KCE-SWBUG-4297,Site Manager - DOP's Software information displayed like misaligned view,Vivek,"16.6.0.52 (LD: 16.6.0.10 , GCD: 16.6.38)",2024-05-21
+KCE-SWBUG-4326,"16.6 - ""Out of service"" indication is not working in AVDMAT3 display when RDF mode or 263 is enabled when 1188 set as 37 marine English.",Badaganti Sai Prasad,16.6.0.52,2024-05-28
+KCE-SWBUG-4328,16.6 - Gangway Mode- Gangway mode indication is not shown in car display,Shrividhya,"KCE 16.6.0.52 (LD: 16.6.0.10, GCD: 16.6.38)",2024-05-29
+KCE-SWBUG-4342,4.5 - Service Tool - Typo in Elevator Parameter 1588 ,Suryanarayanan,4.5.201.6686,2024-06-04
+KCE-SWBUG-4370,16.6 - Fire indication not displayed in E-Link when FID V is activated from PIO,Vivek,"KCE 16.6.0.60 (LD: 16.6.0.12 , GCD: 16.6.43)",2024-06-11
+KCE-SWBUG-4402,"4.5 - Service Tool - LWD Setup Drive parameter couldn't be Saved as ""-2"" in UI",Suryanarayanan,,2024-06-17
+KCE-SWBUG-4411,4.5 - AMC - Elevator Status UI gets Distorted after rotating from Landscape back to Portrait Mode,Suryanarayanan,4.5.212.6736,2024-06-19
+KCE-SWBUG-4449,"PESSRAL 4.2 - FC 1752 (an invalid fault) activated with FC 2408, when C2 is opened during PIT run",Harini Sri,NHR - PESSRAL4.2-TR27,2024-06-30
+KCE-SWBUG-4451,PESSRAL 4.2 - FC 2404 is not activated when inspection mode Switch(S2) is ON ,Harini Sri,NHR - PESSRAL4.2-TR27,2024-06-30
+KCE-SWBUG-4471,PESSRAL 4.2 - FC 2513 activated during KCECPU reboot (Pri-triggered stopping system energy saving request bit is OFF),Harini Sri,BiDi - PESSRAL4.2-TR27,2024-07-03
+KCE-SWBUG-4487,"16.6 - "" Priority Service"" indication is not working in AVDMAT3 display when 1188 is set as 37 (Marine).",Badaganti Sai Prasad,"16.6.1.3(16.6.1.1,16.6.45)",2024-07-08
+KCE-SWBUG-4494,Site Manager - The Popup message are present for a long time,Vivek,"16.6.1.3 (LD: 16.6.1.1, GCD: 16.6.45)",2024-07-10
+KCE-SWBUG-4497,16.6 - Gangway Car call blinking function is not working ,Shrividhya,"KCE 16.6.1.3 (LD: 16.6.1.1, GCD: 16.6.45)",2024-07-14
+KCE-SWBUG-4500,"Site Controller Redundancy - Inventory manager issue, shows deleted terminal ID's for DOP and duplicate DG's in Site Manager",Vivek,"16.6.1.6 (LD: 16.6.1.3, GCD: 16.6.45)",2024-07-14
+KCE-SWBUG-4502,16.6 LD - KCECOBG24 - FRD Indication from output XC12:4 is NOT Triggered,Suryanarayanan,"KCE 16.6.1.3 (LD: 16.6.1.1, GCD: 16.6.45)",2024-07-15
+KCE-SWBUG-4507,SiteManager: DOP Screensaver not visible in a SM,Vivek,"16.6.1.6 (LD: 16.6.1.3, GCD: 16.6.45)",2024-07-21
+KCE-SWBUG-4508,SiteManager : DG Screensaver updated successfully but SM puts fail message at 90% ,Vivek,"16.6.1.6 (LD: 16.6.1.3, GCD: 16.6.45)",2024-07-21
+KCE-SWBUG-4509,16.6 LD - KCECOBG24- Rescue mode Visual Indication NOT ACTIVATED when EPD Ph 1 is Triggered,Suryanarayanan,"KCE 16.6.1.6 (LD: 16.6.1.3, GCD: 16.6.45)",2024-07-21
+KCE-SWBUG-4513,16.6 - CDM - Landing calls are not re allocated to the other lift in group if CDM call is activated,Badaganti Sai Prasad,16.6.1.6,2024-07-21
+KCE-SWBUG-4514,"16.6 - CDM - ""PRL"" mode is not shown in E link when CDM call is activated.",Badaganti Sai Prasad,16.6.1.6,2024-07-22
+KCE-SWBUG-4522,16.6 CDM - Elevator is staying in first floor when WSC is activated till CDM call timer is elapsed(30secs). ,Badaganti Sai Prasad,"16.6.2.5(16.6.1.4,16.6.50)",2024-07-23
+KCE-SWBUG-4528,Site Manager picks only disconnected devices for particular DOP Configuration file update,Vivek,"KCE 16.6.2.5 (LD 16.6.1.4, GCD 16.6.50)",2024-07-28
+KCE-SWBUG-4536,16.6 - CDM - Lift 2 30 secs timer is not cancelling even after CDM call is registered to Lift 1.,Badaganti Sai Prasad,"16.6.2.7(16.6.1.5,16.6.50)",2024-07-30
+KCE-SWBUG-4540,"16.6 - "" Evacuate car"" message is not shown in display if SWL mode is activated during ""Gangway"".",Badaganti Sai Prasad,"16.6.2.7(LD-16.6.1.5, GCD-16.6.50)",2024-07-31
+KCE-SWBUG-4595,16.6 LD - PIO - Mechanical Gong Output LED Not turning OFF after triggering,Suryanarayanan,"KCE 16.6.2.10 (LD: 16.6.1.6, GCD: 16.6.50)",2024-08-19
+KCE-SWBUG-4625,16.6 - AES(SHABBAT)mode indication still exists in DG when AES cycle is completed.,Vivek,"16.6.2.14(LD: 16.6.1.7, GCD: 16.6.52)",2024-08-25
+KCE-SWBUG-4654,KCESAFETY - NHR - Continuous noise from COP when Alternative reset failed due to C7(close) < 1 sec,Harini Sri,,2024-09-03
+KCE-SWBUG-4658,NHR - CPU not trying to retract the SLD Based on Parameter ID1500,Harini Sri,,2024-09-03
+KCE-SWBUG-4672,16.6 - COP Display operation stopped if a special mode is activated before display is booted up completely after roll call.,Badaganti Sai Prasad,"KCE 16.6.2.17(LD: 16.6.1.9, GCD: 16.6.53)",2024-09-05
+KCE-SWBUG-4679,16.6 Sitemanager - Space occurs between the file name and file format when uploading the configuration files in SFS.,Vivek,"KCE 16.6.2.17(LD: 16.6.1.9, GCD: 16.6.53)",2024-09-09
+KCE-SWBUG-4727,PESSRAL 4.2 - SSA Traffic Lights - Pit and Car safety indications are not working as expected during Inspection modes,Harini Sri,P4.2-TR30 - CPU 16.8.0.7,2024-09-16
+KCE-SWBUG-4736,PESSRAL 4.2 - NHR - Alternative Reset Failed - FC 2413 cleared when S1 is open/ C3 Open after Sequence 13,Harini Sri,NHR - PESSRAL4.2-TR30,2024-09-18
+KCE-SWBUG-4774,"16.6 - CPU & MUL - Shaft Side Index value shown wrongly as ""2B"" in CAR LON Network after Roll Call.",Suryanarayanan,KCE16.6.2.23 ITER#2 (LD 16.6.1.9 & GCD 16.6.57),2024-09-30
+KCE-SWBUG-4792,16.8 - KDM - Few values are not updated correctly in Drive parameters (160 to 163),Badaganti Sai Prasad,"16.8.0.35(LD: 16.8.0.8, GCD: 16.8.26)",2024-10-02
+KCE-SWBUG-4840,16.8 - Wrong info is shown in fault code data in Promanager and AMC,Badaganti Sai Prasad,"KCE16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-21
+KCE-SWBUG-4849,"Remote Software Update Failed, because of ""SFS Error""",Harini Sri,,2024-10-22
