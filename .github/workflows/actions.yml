@@ -11,12 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'  # Change this to your desired Python version
+        uses: actions/setup-python@v4  # No change needed; it's still v4
 
       - name: Install dependencies
         run: |
