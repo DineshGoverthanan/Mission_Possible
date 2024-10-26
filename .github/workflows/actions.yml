@@ -32,8 +32,12 @@ jobs:
         run: |
           python kpi.py  # Replace with the name of your Python script
 
-      - name: Upload KPI Report
-        uses: actions/upload-artifact@v4  # Updated to v4
-        with:
-          name: kp_data
-          path: kp_data.xlsx  # Adjust the path to your output file
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"  # Set a username for the commit
+          git config --global user.email "github-actions@github.com"  # Set an email for the commit
+          git add kp_data.xlsx  # Add the output file to the commit
+          git commit -m "Update kp_data.xlsx" || echo "No changes to commit"  # Commit the changes
+          git push  # Push the changes to the main branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
