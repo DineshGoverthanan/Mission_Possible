@@ -8127,6 +8127,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-25",
+        "Document Key":"KCE-TSTRN-3597416",
+        "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585577",
@@ -8719,6 +8726,13 @@
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3585520",
         "Name":"Storm input activation when lift serves the Existing landing calls",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3585524",
+        "Name":"DOB and DCB functions at strom operation mode ",
         "Assigned To":"Shrividhya"
     },
     {
