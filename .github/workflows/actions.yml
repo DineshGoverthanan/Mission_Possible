@@ -8,6 +8,7 @@ on:
   schedule:
     - cron: '30 1 * * *'# Triggers the workflow daily at 07:00 am UTC
     - cron: '30 5 * * *'# Triggers the workflow daily at 11:00 am UTC
+    - cron: '30 8 * * *'# Triggers the workflow daily at 02:00 am UTC
 
 permissions:
   contents: write  # Allow the workflow to push changes to the repository
