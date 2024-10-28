@@ -8618,6 +8618,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3585502",
+        "Name":"High Wind activation when lift serves the Existing calls",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-10-17",
         "Document Key":"KCE-TSTRN-3584347",
         "Name":"High Wind operation with new car call registeration (avoided floors) ",
@@ -8705,6 +8712,13 @@
         "ExecutionDate":"2024-10-25",
         "Document Key":"KCE-TSTRN-3585525",
         "Name":"Car display operation when last car call serving floor.",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3585520",
+        "Name":"Storm input activation when lift serves the Existing landing calls",
         "Assigned To":"Shrividhya"
     },
     {
