@@ -154,6 +154,5 @@ df_testruns = pd.DataFrame(testrun_extracted_data)
 # Export the dataframes to CSV files
 df_kp.to_csv("kp_data.csv", index=False)  # KPI data
 df_defects.to_csv("defect_data.csv", index=False)  # Defect data
-df_testruns.to_csv("testrun_data.csv", index=False)  # Test run data
-
-print("Data exported to CSV files: kp_data.csv, defect_data.csv, testrun_data.csv")
+df_testruns.to_json("testrun_data.json", orient="records", indent=4)
+print("Data exported to CSV files: kp_data.csv, defect_data.csv, testrun_data.json")
