@@ -8316,6 +8316,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597436",
+        "Name":"3.ELO Filter timeout:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3597434",
@@ -9091,5 +9098,12 @@
         "Document Key":"KCE-TSTRN-3585951",
         "Name":"MCM + SmartConnector 1.0 - SW update",
         "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3599383",
+        "Name":"High wind activation when lift serves the current calls",
+        "Assigned To":"Vivek"
     }
 ]
