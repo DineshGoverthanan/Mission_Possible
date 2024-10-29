@@ -156,3 +156,13 @@ df_kp.to_csv("kp_data.csv", index=False)  # KPI data
 df_defects.to_csv("defect_data.csv", index=False)  # Defect data
 df_testruns.to_json("testrun_data.json", orient="records", indent=4)
 print("Data exported to CSV files: kp_data.csv, defect_data.csv, testrun_data.json")
+"""
+# Export the dataframes to an Excel file with multiple sheets
+output_file = "kp_data.xlsx"
+with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
+    df_kp.to_excel(writer, sheet_name='KP', index=False)
+    df_defects.to_excel(writer, sheet_name='Defect', index=False)
+    df_testruns.to_excel(writer, sheet_name='Test run', index=False)
+
+print(f"Data exported to {output_file}")
+"""
