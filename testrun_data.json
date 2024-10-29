@@ -8128,7 +8128,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-10-25",
+        "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3597416",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -8302,24 +8302,52 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-25",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3597434",
         "Name":"Rust test case against BFCB_ SDM and PIT inspection mode.",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-03",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3580370",
         "Name":"Configuration of KIB and KS2 - Service Switch",
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-03",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3580374",
         "Name":"Configuration of KIB and KS2 - Service Switch",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3580372",
+        "Name":"KS2 - One ID",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3580376",
+        "Name":"KS2 - One ID",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3580369",
+        "Name":"KS2 - Two ID",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-28",
+        "Document Key":"KCE-TSTRN-3580373",
+        "Name":"KS2 - Two ID",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -8722,7 +8750,7 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3585520",
         "Name":"Storm input activation when lift serves the Existing landing calls",

@@ -91,3 +91,5 @@ KCE-SWBUG-4774,"16.6 - CPU & MUL - Shaft Side Index value shown wrongly as ""2B"
 KCE-SWBUG-4792,16.8 - KDM - Few values are not updated correctly in Drive parameters (160 to 163),Badaganti Sai Prasad,"16.8.0.35(LD: 16.8.0.8, GCD: 16.8.26)",2024-10-02
 KCE-SWBUG-4840,16.8 - Wrong info is shown in fault code data in Promanager and AMC,Badaganti Sai Prasad,"KCE16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-21
 KCE-SWBUG-4849,"Remote Software Update Failed, because of ""SFS Error""",Harini Sri,,2024-10-22
+KCE-SWBUG-4856,16.8 - Storm parked floor operation is not work after FPD activation ,Shrividhya,"KCE 16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-27
+KCE-SWBUG-4862,16.8 - Drive Parameter Information (160 to 163) is not shown in both AMC and Pro manager.,Badaganti Sai Prasad,"16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-27
