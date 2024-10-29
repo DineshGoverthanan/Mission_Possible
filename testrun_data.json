@@ -8128,7 +8128,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-10-28",
+        "ExecutionDate":"2024-10-29",
         "Document Key":"KCE-TSTRN-3597416",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -8300,6 +8300,20 @@
         "Document Key":"KCE-TSTRN-3585553",
         "Name":"SRE mode Deactivation",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597431",
+        "Name":"1.ELO Parameter settings:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597433",
+        "Name":"2.ELO Enabled with normal operation",
+        "Assigned To":"Badaganti Sai Prasad"
     },
     {
         "TestRunStatus":"PASSED",
@@ -8761,6 +8775,20 @@
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3585524",
         "Name":"DOB and DCB functions at strom operation mode ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3585511",
+        "Name":"Strom operation with new car\/Landing call registeration",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3585487",
+        "Name":"Parking operation after last car call serving floor",
         "Assigned To":"Shrividhya"
     },
     {
