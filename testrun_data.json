@@ -8289,7 +8289,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-29",
+        "ExecutionDate":"2024-10-30",
         "Document Key":"KCE-TSTRN-3597363",
         "Name":"Mode priority in SRE mode \u2013 Low priority",
         "Assigned To":"Jagadeesh"
@@ -8848,8 +8848,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-29",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-30",
         "Document Key":"KCE-TSTRN-3585517",
         "Name":"Power cycle scenario with High wind operation",
         "Assigned To":"Shrividhya"
