@@ -8239,6 +8239,27 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597414",
+        "Name":"SRE Mode activation when lift is running towards either car call locked or landing call locked at all sides.",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597375",
+        "Name":"SRE Mode activation when lift is running towards both car and landing call are locked floor. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597351",
+        "Name":"SRE Mode activation when lift is running towards either car call or landing call locked at any one side. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-23",
         "Document Key":"KCE-TSTRN-3585568",
@@ -8267,9 +8288,23 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597363",
+        "Name":"Mode priority in SRE mode \u2013 Low priority",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-25",
         "Document Key":"KCE-TSTRN-3585547",
+        "Name":"Relevelling operation during SRE mode",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597354",
         "Name":"Relevelling operation during SRE mode",
         "Assigned To":"Jagadeesh"
     },
@@ -8316,10 +8351,17 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-29",
         "Document Key":"KCE-TSTRN-3597436",
         "Name":"3.ELO Filter timeout:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3597356",
+        "Name":"4.ELO intruder alarm timeout with unauthorized person_Test switch\/inspection",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -8796,6 +8838,20 @@
         "ExecutionDate":"2024-10-29",
         "Document Key":"KCE-TSTRN-3585487",
         "Name":"Parking operation after last car call serving floor",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3585518",
+        "Name":"Deactivate the Strom Operation input",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-29",
+        "Document Key":"KCE-TSTRN-3585517",
+        "Name":"Power cycle scenario with High wind operation",
         "Assigned To":"Shrividhya"
     },
     {
