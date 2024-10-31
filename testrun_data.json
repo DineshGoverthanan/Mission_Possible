@@ -8274,6 +8274,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-10-30",
+        "Document Key":"KCE-TSTRN-3597387",
+        "Name":"SRE Mode ACU Announcements",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-23",
         "Document Key":"KCE-TSTRN-3585550",
@@ -8288,7 +8295,7 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-30",
         "Document Key":"KCE-TSTRN-3597363",
         "Name":"Mode priority in SRE mode \u2013 Low priority",
