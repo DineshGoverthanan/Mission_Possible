@@ -8274,8 +8274,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-30",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3597387",
         "Name":"SRE Mode ACU Announcements",
         "Assigned To":"Jagadeesh"
