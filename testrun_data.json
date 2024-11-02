@@ -8302,6 +8302,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3597358",
+        "Name":"Mode priority in SRE mode \u2013 High priority",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-25",
         "Document Key":"KCE-TSTRN-3585547",
@@ -9156,10 +9163,52 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-21",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3585951",
         "Name":"MCM + SmartConnector 1.0 - SW update",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585941",
+        "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585933",
+        "Name":"AMC 4.4 + SmartConnector 1.0 + Bluetooth + KCECPUc KCE16.4",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585954",
+        "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth + KCECPUc KCE16.4",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585953",
+        "Name":"AMC 4.5 + SmartConnector 3.0 + Bluetooth + KCECPUc KCE16.4",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585956",
+        "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth + KCEGCH",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-01",
+        "Document Key":"KCE-TSTRN-3585949",
+        "Name":"AMC 4.5 + SmartConnector 3.0 + Bluetooth + KCEGCH",
         "Assigned To":"ARUN KUMAR"
     },
     {
