@@ -8379,6 +8379,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3597366",
+        "Name":"9.1772 Fault recovery with Power cycle",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3597434",
@@ -8869,6 +8876,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3585500",
+        "Name":"Power cycle scenario with Strom operation input ",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-14",
         "Document Key":"KCE-TSTRN-3580815",
@@ -9177,6 +9191,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3585950",
+        "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth - Different supported OS version related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3585933",
@@ -9212,10 +9233,31 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-10-29",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3599383",
         "Name":"High wind activation when lift serves the current calls",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3599381",
+        "Name":"High Wind activation when lift serves the Existing calls",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3599373",
+        "Name":"High Wind operation with new landing call (avoided floors)",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3599374",
+        "Name":"High Wind operation activation when lift standing in avoided floors ",
         "Assigned To":"Vivek"
     }
 ]
