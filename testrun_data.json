@@ -8890,6 +8890,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3585488",
+        "Name":"Both inputs are active OFF state During power cycle",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-14",
         "Document Key":"KCE-TSTRN-3580815",
