@@ -8163,6 +8163,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3597435",
+        "Name":"Pit BFCB Selection from Node list \u2013 A Side or B - Side",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585566",
         "Name":"Pit inspection Run upward direction.",
@@ -9185,6 +9192,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3585944",
+        "Name":"AMC + SmartConnector 1.0 - Pairing with multiple devices, connectivity related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3585941",
         "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
@@ -9199,9 +9213,16 @@
     },
     {
         "TestRunStatus":"PASSED",
-        "ExecutionDate":"2024-11-01",
+        "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585933",
         "Name":"AMC 4.4 + SmartConnector 1.0 + Bluetooth + KCECPUc KCE16.4",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-04",
+        "Document Key":"KCE-TSTRN-3585959",
+        "Name":"AMC 4.4 + SmartConnector 3.0 + Bluetooth + KCECPUc KCE16.4",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -9219,15 +9240,15 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-01",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585956",
         "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth + KCEGCH",
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-01",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585949",
         "Name":"AMC 4.5 + SmartConnector 3.0 + Bluetooth + KCEGCH",
         "Assigned To":"ARUN KUMAR"
@@ -9240,7 +9261,7 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3599381",
         "Name":"High Wind activation when lift serves the Existing calls",
