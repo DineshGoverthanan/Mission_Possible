@@ -8331,6 +8331,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3611011",
+        "Name":"Correction drive operation during SRE mode",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585557",
         "Name":"Power cycle in SRE mode",
@@ -8390,6 +8397,20 @@
         "ExecutionDate":"2024-11-05",
         "Document Key":"KCE-TSTRN-3611012",
         "Name":"4.ELO intruder alarm timeout with unauthorized person_Test switch\/inspection",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3611013",
+        "Name":"ELO intruder alarm timeout with unauthorized person_ELO input ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3611014",
+        "Name":"ELO intruder alarm timeout with authorized person",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9212,15 +9233,15 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-04",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-05",
         "Document Key":"KCE-TSTRN-3585944",
         "Name":"AMC + SmartConnector 1.0 - Pairing with multiple devices, connectivity related tests",
         "Assigned To":"ARUN KUMAR"
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-01",
+        "ExecutionDate":"2024-11-05",
         "Document Key":"KCE-TSTRN-3585941",
         "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
         "Assigned To":"ARUN KUMAR"
@@ -9325,8 +9346,22 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3611099",
+        "Name":"High Wind operation with new landing call (avoided floors)",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3599374",
+        "Name":"High Wind operation activation when lift standing in avoided floors ",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-05",
+        "Document Key":"KCE-TSTRN-3611100",
         "Name":"High Wind operation activation when lift standing in avoided floors ",
         "Assigned To":"Vivek"
     }
