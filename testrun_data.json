@@ -8414,6 +8414,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611015",
+        "Name":"5.Intruder alarm with 1772 fault code",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3597366",
