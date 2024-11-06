@@ -8134,6 +8134,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3610944",
+        "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585577",
@@ -8260,6 +8267,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611009",
+        "Name":"SRE Mode activation when lift is running towards both car and landing call are locked floor. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-29",
         "Document Key":"KCE-TSTRN-3597351",
@@ -8312,6 +8326,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3597358",
+        "Name":"Mode priority in SRE mode \u2013 High priority",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611010",
         "Name":"Mode priority in SRE mode \u2013 High priority",
         "Assigned To":"Jagadeesh"
     },
@@ -8408,7 +8429,7 @@
     },
     {
         "TestRunStatus":"PASSED",
-        "ExecutionDate":"2024-11-05",
+        "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611014",
         "Name":"ELO intruder alarm timeout with authorized person",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8418,6 +8439,13 @@
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611015",
         "Name":"5.Intruder alarm with 1772 fault code",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611017",
+        "Name":"7.1772 Fault recovery with Any inspection modes",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9247,15 +9275,15 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-05",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3585941",
         "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-04",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3585950",
         "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth - Different supported OS version related tests",
         "Assigned To":"ARUN KUMAR"
@@ -9352,8 +9380,8 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-05",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611099",
         "Name":"High Wind operation with new landing call (avoided floors)",
         "Assigned To":"Vivek"
@@ -9367,7 +9395,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-05",
+        "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611100",
         "Name":"High Wind operation activation when lift standing in avoided floors ",
         "Assigned To":"Vivek"
