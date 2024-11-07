@@ -9422,10 +9422,24 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-11-06",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611100",
         "Name":"High Wind operation activation when lift standing in avoided floors ",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611101",
+        "Name":"Power cycle scenario with Strom operation input ",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611102",
+        "Name":"Storm operation activation during High priority special mode",
         "Assigned To":"Vivek"
     }
 ]
