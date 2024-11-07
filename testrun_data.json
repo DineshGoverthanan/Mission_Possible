@@ -8471,7 +8471,7 @@
     },
     {
         "TestRunStatus":"PASSED",
-        "ExecutionDate":"2024-11-06",
+        "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611021",
         "Name":"11.ELO deactivation with test (261\/263) \/inspection activation:",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8834,6 +8834,20 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611063",
+        "Name":"High Wind activation when lift serves the Existing calls",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611064",
+        "Name":"High Wind operation with new car and Landing call registeration (un-avoided floors)  ",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-10-17",
         "Document Key":"KCE-TSTRN-3584347",
@@ -8982,9 +8996,30 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611074",
+        "Name":"Both inputs are active OFF state During power cycle",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-05",
         "Document Key":"KCE-TSTRN-3585503",
         "Name":"Both inputs are active OFF state During power cycle",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611075",
+        "Name":"Strom inputs is OFF and High wind is ON state during power cycle",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611076",
+        "Name":"High wind input activation during High priority special mode ",
         "Assigned To":"Shrividhya"
     },
     {
