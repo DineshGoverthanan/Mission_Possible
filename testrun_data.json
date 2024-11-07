@@ -8134,7 +8134,7 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3610944",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
@@ -8442,10 +8442,17 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611017",
         "Name":"7.1772 Fault recovery with Any inspection modes",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611018",
+        "Name":"8.1772 Fault recovery with OPT (ELO function)",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -8453,6 +8460,20 @@
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3597366",
         "Name":"9.1772 Fault recovery with Power cycle",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611019",
+        "Name":"9.1772 Fault recovery with Power cycle",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3611021",
+        "Name":"11.ELO deactivation with test (261\/263) \/inspection activation:",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9290,6 +9311,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-06",
+        "Document Key":"KCE-TSTRN-3585955",
+        "Name":"AMC 4.5 + SmartConnector 1.0 + USB - Different supported OS version related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585933",
         "Name":"AMC 4.4 + SmartConnector 1.0 + Bluetooth + KCECPUc KCE16.4",
@@ -9394,7 +9422,7 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611100",
         "Name":"High Wind operation activation when lift standing in avoided floors ",
