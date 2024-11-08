@@ -8135,7 +8135,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-11-06",
+        "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3610944",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -8474,6 +8474,41 @@
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611021",
         "Name":"11.ELO deactivation with test (261\/263) \/inspection activation:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611022",
+        "Name":"12.ELO deactivation with KCEOPT 105 pin1 in open state:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611023",
+        "Name":"13.ELO Reactivation and ELO inputs status",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611024",
+        "Name":"14.ELO Reactivation with KCEOPT Output status",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611025",
+        "Name":"15.Breakdown scenario by Inspection switch:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611036",
+        "Name":"26.Door open output",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -8841,7 +8876,7 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611064",
         "Name":"High Wind operation with new car and Landing call registeration (un-avoided floors)  ",
@@ -8859,6 +8894,13 @@
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585516",
         "Name":"High Wind operation with new car call registeration (avoided floors) ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611065",
+        "Name":"High Wind operation with new landing call (avoided floors)",
         "Assigned To":"Shrividhya"
     },
     {
@@ -8984,6 +9026,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585500",
+        "Name":"Power cycle scenario with Strom operation input ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611073",
         "Name":"Power cycle scenario with Strom operation input ",
         "Assigned To":"Shrividhya"
     },
@@ -9269,6 +9318,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611140",
+        "Name":"3. MR_LWD with KCEOPT input activation_881=nonzero.",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-17",
         "Document Key":"KCE-TSTRN-3584375",
         "Name":"4. MR_LWD with KCEOPT input activation_881=nonzero.",
@@ -9471,10 +9527,17 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611102",
         "Name":"Storm operation activation during High priority special mode",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-07",
+        "Document Key":"KCE-TSTRN-3611103",
+        "Name":"EPD and BSW activatiion and drive speed operation",
         "Assigned To":"Vivek"
     }
 ]
