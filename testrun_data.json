@@ -9539,5 +9539,19 @@
         "Document Key":"KCE-TSTRN-3611103",
         "Name":"EPD and BSW activatiion and drive speed operation",
         "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-08",
+        "Document Key":"KCE-TSTRN-3611104",
+        "Name":"3.EPS G Emergency sequencing by Group controller using its inbuilt sequencer - Single lift sequence Scenario",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-08",
+        "Document Key":"KCE-TSTRN-3611105",
+        "Name":"4.EPS G Emergency sequencing - Single lift full sequence Scenario on triggering one by one EPD input with OPT Output Operation",
+        "Assigned To":"Vivek"
     }
 ]
