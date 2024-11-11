@@ -8512,6 +8512,27 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611029",
+        "Name":"19.Battery Low Logic triggered as momentary",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611031",
+        "Name":"21.Battery Low Logic signal fault with Inspection mode\/ test switch",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611032",
+        "Name":"22.Battery Low Logic signal fault with Low Battery signal is OFF at KCEOPT",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611036",
@@ -8932,6 +8953,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611066",
+        "Name":"Group function and inbank status ",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-10-23",
         "Document Key":"KCE-TSTRN-3585490",
@@ -8964,6 +8992,13 @@
         "ExecutionDate":"2024-10-23",
         "Document Key":"KCE-TSTRN-3585523",
         "Name":"E-link view in strom operation mode ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611068",
+        "Name":"Group functions when strom operation mode ",
         "Assigned To":"Shrividhya"
     },
     {
@@ -9005,6 +9040,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585511",
+        "Name":"Strom operation with new car\/Landing call registeration",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611070",
         "Name":"Strom operation with new car\/Landing call registeration",
         "Assigned To":"Shrividhya"
     },
@@ -9076,6 +9118,41 @@
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611076",
         "Name":"High wind input activation during High priority special mode ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611077",
+        "Name":"High wind input triggered after High priority special mode ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611078",
+        "Name":"Storm operation activation during High priority special mode",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611079",
+        "Name":"Special modes are triggered after Storm operation activation.",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611080",
+        "Name":"EPD and BSW activatiion and drive speed operation",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611081",
+        "Name":"BSW and EZO+COD  with reduce speed drive ",
         "Assigned To":"Shrividhya"
     },
     {
