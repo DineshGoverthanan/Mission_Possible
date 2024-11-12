@@ -9171,7 +9171,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-11",
+        "ExecutionDate":"2024-11-12",
         "Document Key":"KCE-TSTRN-3611081",
         "Name":"BSW and EZO+COD  with reduce speed drive ",
         "Assigned To":"Shrividhya"
@@ -9628,6 +9628,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611101",
+        "Name":"Power cycle scenario with Strom operation input ",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633366",
         "Name":"Power cycle scenario with Strom operation input ",
         "Assigned To":"Vivek"
     },
