@@ -8135,7 +8135,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-11-08",
+        "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3610944",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -8533,10 +8533,31 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611034",
+        "Name":"24.Mode priority2",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611035",
+        "Name":"25.Alarm Sounder",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611036",
         "Name":"26.Door open output",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-11",
+        "Document Key":"KCE-TSTRN-3611037",
+        "Name":"27.Inspection mode output",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
