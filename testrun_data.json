@@ -8569,6 +8569,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633322",
+        "Name":"28.ELO alarm bell Output",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-28",
         "Document Key":"KCE-TSTRN-3597434",
         "Name":"Rust test case against BFCB_ SDM and PIT inspection mode.",
