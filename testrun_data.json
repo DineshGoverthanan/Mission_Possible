@@ -8141,6 +8141,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633244",
+        "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585577",
@@ -9654,8 +9661,22 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633367",
+        "Name":"EPD and BSW activatiion and drive speed operation",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-08",
         "Document Key":"KCE-TSTRN-3611104",
+        "Name":"3.EPS G Emergency sequencing by Group controller using its inbuilt sequencer - Single lift sequence Scenario",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633368",
         "Name":"3.EPS G Emergency sequencing by Group controller using its inbuilt sequencer - Single lift sequence Scenario",
         "Assigned To":"Vivek"
     },
@@ -9664,6 +9685,20 @@
         "ExecutionDate":"2024-11-08",
         "Document Key":"KCE-TSTRN-3611105",
         "Name":"4.EPS G Emergency sequencing - Single lift full sequence Scenario on triggering one by one EPD input with OPT Output Operation",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633369",
+        "Name":"4.EPS G Emergency sequencing - Single lift full sequence Scenario on triggering one by one EPD input with OPT Output Operation",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-12",
+        "Document Key":"KCE-TSTRN-3633370",
+        "Name":"5.EPS G - Non serving of registered car and Landing calls",
         "Assigned To":"Vivek"
     }
 ]
