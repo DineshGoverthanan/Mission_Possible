@@ -8450,6 +8450,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633313",
+        "Name":"6.Group lift with 1772 fault code",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611017",
         "Name":"7.1772 Fault recovery with Any inspection modes",
@@ -8474,6 +8481,13 @@
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611019",
         "Name":"9.1772 Fault recovery with Power cycle",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633314",
+        "Name":"10.1772 Fault recovery with different modes",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -8519,10 +8533,31 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633316",
+        "Name":"17.Breakdown scenario by Special modes:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633317",
+        "Name":"18.Battery Low Logic in Group lift:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611029",
         "Name":"19.Battery Low Logic triggered as momentary",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-13",
+        "Document Key":"KCE-TSTRN-3633318",
+        "Name":"20.Battery Low Logic signal fault with special mode",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9667,8 +9702,8 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-12",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-13",
         "Document Key":"KCE-TSTRN-3633367",
         "Name":"EPD and BSW activatiion and drive speed operation",
         "Assigned To":"Vivek"
@@ -9695,8 +9730,8 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-12",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-13",
         "Document Key":"KCE-TSTRN-3633369",
         "Name":"4.EPS G Emergency sequencing - Single lift full sequence Scenario on triggering one by one EPD input with OPT Output Operation",
         "Assigned To":"Vivek"

@@ -97,3 +97,4 @@ KCE-SWBUG-4866,"16.8 - By deactivating Storm Operation or high wind operation, t
 KCE-SWBUG-4872,16.8 - BSW - The source and destination calls are canceled when HWO is activated ,Vivek,"KCE 16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-28
 KCE-SWBUG-4873,"16.8 - High Wind -After a power cycle, the lift returns to the first served car call, further calls stays registered not served",Shrividhya,"LD: 16.8.0.11, GCD: 16.8.33",2024-10-29
 KCE-SWBUG-4888,"16.8 - BSW - The HWO indication automatically disappeared from E-Link, still the input is active",Vivek,"16.8.0.56(LD: 16.8.0.11, GCD: 16.8.33)",2024-10-29
+KCE-SWBUG-4928,16.8 - ELO - Intruder Alarm in MR and Main Floor is started sounding during roll call.,Badaganti Sai Prasad,"16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-12
