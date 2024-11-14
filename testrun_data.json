@@ -9737,8 +9737,8 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-12",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633370",
         "Name":"5.EPS G - Non serving of registered car and Landing calls",
         "Assigned To":"Vivek"
@@ -9756,5 +9756,12 @@
         "Document Key":"KCE-TSTRN-3633372",
         "Name":"11.EPS G Two lifts in group and other lift online while Normal service",
         "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633471",
+        "Name":"1. Emergency announcement in ACU - Stuck situation ",
+        "Assigned To":"Jagadeesh"
     }
 ]
