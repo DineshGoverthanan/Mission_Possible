@@ -9742,5 +9742,19 @@
         "Document Key":"KCE-TSTRN-3633370",
         "Name":"5.EPS G - Non serving of registered car and Landing calls",
         "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633371",
+        "Name":"7.EPS G - Remove Normal service permission from KCEOPT",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633372",
+        "Name":"11.EPS G Two lifts in group and other lift online while Normal service",
+        "Assigned To":"Vivek"
     }
 ]
