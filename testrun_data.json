@@ -8219,6 +8219,34 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633297",
+        "Name":"1801 Fault code action",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633299",
+        "Name":"1801 Fault reset.",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633301",
+        "Name":"Pit Reset ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633305",
+        "Name":"Power break scenario ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585556",
         "Name":"SRE Mode activation when lift standing in floor level.",
@@ -8485,7 +8513,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-13",
+        "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633314",
         "Name":"10.1772 Fault recovery with different modes",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8534,7 +8562,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-13",
+        "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633316",
         "Name":"17.Breakdown scenario by Special modes:",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8555,7 +8583,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-13",
+        "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633318",
         "Name":"20.Battery Low Logic signal fault with special mode",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8607,6 +8635,20 @@
         "ExecutionDate":"2024-11-13",
         "Document Key":"KCE-TSTRN-3633322",
         "Name":"28.ELO alarm bell Output",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633324",
+        "Name":"30.ELO feature enabled ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633325",
+        "Name":"31.ELO feature disabled ",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9744,24 +9786,59 @@
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633371",
         "Name":"7.EPS G - Remove Normal service permission from KCEOPT",
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633372",
         "Name":"11.EPS G Two lifts in group and other lift online while Normal service",
         "Assigned To":"Vivek"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633471",
         "Name":"1. Emergency announcement in ACU - Stuck situation ",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633473",
+        "Name":"3. Emergency announcement in ACU - Inspection mode",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633474",
+        "Name":"4. Emergency Announcement in ACU - Inspection mode activation during Emergency announcement",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633476",
+        "Name":"6. Emergency announcement in ACU - Door Zones",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633477",
+        "Name":"7. Emergency announcement in ACU - Test switch operation",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-14",
+        "Document Key":"KCE-TSTRN-3633485",
+        "Name":"OSI - Out of Service Indication - OPT",
+        "Assigned To":"Harini Sri"
     }
 ]
