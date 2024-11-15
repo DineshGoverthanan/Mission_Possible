@@ -9800,6 +9800,13 @@
         "Assigned To":"Vivek"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633461",
+        "Name":"1. Emergency announcement in announcer - Stuck situation ",
+        "Assigned To":"Harini Sri"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633471",
@@ -9835,8 +9842,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-14",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633485",
         "Name":"OSI - Out of Service Indication - OPT",
         "Assigned To":"Harini Sri"
