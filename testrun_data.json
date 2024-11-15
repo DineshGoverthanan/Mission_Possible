@@ -8225,6 +8225,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633298",
+        "Name":"Inspection drive with 1801 Fault code",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633299",
@@ -8232,10 +8239,17 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-14",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633301",
         "Name":"Pit Reset ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633302",
+        "Name":"Mode Priority with another inspection modes ",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -9800,6 +9814,20 @@
         "Assigned To":"Vivek"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633373",
+        "Name":"10.EPS G Duplex lifts with one lift fails while returning",
+        "Assigned To":"Vivek"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633374",
+        "Name":"12.EPS G Single lift failure to start normal service",
+        "Assigned To":"Vivek"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633461",
@@ -9840,6 +9868,20 @@
         "Document Key":"KCE-TSTRN-3633477",
         "Name":"7. Emergency announcement in ACU - Test switch operation",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633478",
+        "Name":"9. Emergency announcement in ACU - Comes out from inspection mode",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633484",
+        "Name":"OSI - Out of Service Indication - KSS",
+        "Assigned To":"Harini Sri"
     },
     {
         "TestRunStatus":"PASSED",
