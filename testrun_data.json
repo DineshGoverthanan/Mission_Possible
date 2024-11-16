@@ -8142,7 +8142,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-11-12",
+        "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633244",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -9842,6 +9842,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633472",
+        "Name":"2. Emergency announcement in ACU - Rescue situation",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633473",
@@ -9877,7 +9884,7 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633484",
         "Name":"OSI - Out of Service Indication - KSS",
@@ -9888,6 +9895,13 @@
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633485",
         "Name":"OSI - Out of Service Indication - OPT",
+        "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-15",
+        "Document Key":"KCE-TSTRN-3633488",
+        "Name":"OSS L - Out of Service Switch at landing - KCEOPT - Tests not included into TA",
         "Assigned To":"Harini Sri"
     }
 ]
