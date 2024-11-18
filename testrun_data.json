@@ -8219,6 +8219,27 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633294",
+        "Name":"Pit inspection down buttons stuck ON Fault code with normal mode.  ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633295",
+        "Name":"Pit inspection Hardware supervision \u2013 No pit inspection hardware is connected.",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633296",
+        "Name":"Pit inspection Hardware supervision \u2013 Both FOBG23 & BFCB hardware are connected.",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633297",
         "Name":"1801 Fault code action",
@@ -8246,10 +8267,17 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-15",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3633302",
         "Name":"Mode Priority with another inspection modes ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633304",
+        "Name":"Pit Inspection Parameter Deactivation \u2013 BFCB",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -8652,8 +8680,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-14",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3633324",
         "Name":"30.ELO feature enabled ",
         "Assigned To":"Badaganti Sai Prasad"
@@ -9903,5 +9931,19 @@
         "Document Key":"KCE-TSTRN-3633488",
         "Name":"OSS L - Out of Service Switch at landing - KCEOPT - Tests not included into TA",
         "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633489",
+        "Name":"OSS L - Out of Service Switch at landing - FCB board - Tests not included into TA ",
+        "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633490",
+        "Name":"PAD S - Parking at pre-defined floor - Separate switch",
+        "Assigned To":"Jagadeesh"
     }
 ]
