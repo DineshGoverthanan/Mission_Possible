@@ -8184,6 +8184,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633292",
+        "Name":"Pit BFCB Selection from Node list \u2013 TTC floor",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-21",
         "Document Key":"KCE-TSTRN-3585566",
         "Name":"Pit inspection Run upward direction.",
@@ -8285,6 +8292,13 @@
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633305",
         "Name":"Power break scenario ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633307",
+        "Name":"Rush test case - new pit inspection station & BFCB hardware ",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -8555,7 +8569,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-14",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3633314",
         "Name":"10.1772 Fault recovery with different modes",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8682,6 +8696,13 @@
     {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633323",
+        "Name":"29.ELO operation with different Door types:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3633324",
         "Name":"30.ELO feature enabled ",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8751,7 +8772,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-10-25",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3583373",
         "Name":"KNS Adapter - KNSBADB - DOB configuration",
         "Assigned To":"Suryanarayanan"
@@ -8771,8 +8792,8 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-10-25",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-18",
         "Document Key":"KCE-TSTRN-3583376",
         "Name":"KNS Adapter - KNSBADB - Failure scenarios",
         "Assigned To":"Suryanarayanan"
@@ -9909,6 +9930,13 @@
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633478",
         "Name":"9. Emergency announcement in ACU - Comes out from inspection mode",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-18",
+        "Document Key":"KCE-TSTRN-3633479",
+        "Name":"10. Emergency voice announcement in ACU- EBD Supervision",
         "Assigned To":"Jagadeesh"
     },
     {
