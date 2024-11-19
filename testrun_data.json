@@ -9331,6 +9331,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633348",
+        "Name":"BSW and EZO+COD  with reduce speed drive ",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-14",
         "Document Key":"KCE-TSTRN-3580815",
