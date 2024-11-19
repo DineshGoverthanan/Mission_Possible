@@ -8218,6 +8218,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633293",
+        "Name":"Pit inspection Stop button",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-10-22",
         "Document Key":"KCE-TSTRN-3585574",
@@ -8267,6 +8274,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633300",
+        "Name":"EBD and LON network scenario with power loss",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633301",
@@ -8292,6 +8306,13 @@
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633305",
         "Name":"Power break scenario ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633306",
+        "Name":"Pit inspection together with SSA enabled",
         "Assigned To":"ARUN KUMAR"
     },
     {
@@ -9639,6 +9660,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633412",
+        "Name":"SRE Mode activation when lift is running towards FPD locked floor. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3585951",
@@ -9916,6 +9944,13 @@
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633474",
         "Name":"4. Emergency Announcement in ACU - Inspection mode activation during Emergency announcement",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-19",
+        "Document Key":"KCE-TSTRN-3633475",
+        "Name":"5.Emergency announcement in ACU- Special modes",
         "Assigned To":"Jagadeesh"
     },
     {
