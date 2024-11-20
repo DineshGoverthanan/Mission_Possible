@@ -9682,6 +9682,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644289",
+        "Name":"SRE Mode activation when lift is running towards FPD locked floor. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-01",
         "Document Key":"KCE-TSTRN-3585951",
         "Name":"MCM + SmartConnector 1.0 - SW update",
@@ -9930,6 +9937,20 @@
         "ExecutionDate":"2024-11-19",
         "Document Key":"KCE-TSTRN-3633495",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644359",
+        "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644360",
+        "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 2",
         "Assigned To":"Jagadeesh"
     },
     {
