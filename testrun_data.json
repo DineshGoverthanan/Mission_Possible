@@ -8281,6 +8281,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644222",
+        "Name":"EBD and LON network scenario with power loss",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633301",
@@ -8312,6 +8319,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-19",
         "Document Key":"KCE-TSTRN-3633306",
+        "Name":"Pit inspection together with SSA enabled",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644224",
         "Name":"Pit inspection together with SSA enabled",
         "Assigned To":"ARUN KUMAR"
     },
@@ -8372,6 +8386,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644225",
+        "Name":"SRE Mode activation when lift is running towards either car call locked or landing call locked at all sides.",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-10-29",
         "Document Key":"KCE-TSTRN-3597375",
@@ -8382,6 +8403,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3611009",
+        "Name":"SRE Mode activation when lift is running towards both car and landing call are locked floor. ",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644226",
         "Name":"SRE Mode activation when lift is running towards both car and landing call are locked floor. ",
         "Assigned To":"Jagadeesh"
     },
@@ -8596,6 +8624,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644230",
+        "Name":"10.1772 Fault recovery with different modes",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-07",
         "Document Key":"KCE-TSTRN-3611021",
@@ -8645,6 +8680,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644232",
+        "Name":"17.Breakdown scenario by Special modes:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-13",
         "Document Key":"KCE-TSTRN-3633317",
@@ -8662,6 +8704,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-19",
         "Document Key":"KCE-TSTRN-3633318",
+        "Name":"20.Battery Low Logic signal fault with special mode",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644233",
         "Name":"20.Battery Low Logic signal fault with special mode",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -10042,6 +10091,13 @@
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633485",
         "Name":"OSI - Out of Service Indication - OPT",
+        "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644353",
+        "Name":"OSS LR - Out of Service Switch at landing - Door open enabled",
         "Assigned To":"Harini Sri"
     },
     {
