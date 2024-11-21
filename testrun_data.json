@@ -8323,8 +8323,8 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-21",
         "Document Key":"KCE-TSTRN-3644224",
         "Name":"Pit inspection together with SSA enabled",
         "Assigned To":"ARUN KUMAR"

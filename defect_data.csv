@@ -101,3 +101,4 @@ KCE-SWBUG-4928,16.8 - ELO - Intruder Alarm in MR and Main Floor is started sound
 KCE-SWBUG-4936,16.8 - ELO - Intruder alarm and Car roof buzzer is sounding during reactivation.,Badaganti Sai Prasad,"16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-13
 KCE-SWBUG-4943,"16.8 - BSW and EZO+COD -  Power cycle/ Emergency stop, The drive speed does not follow the RES (1378) Speed ",Shrividhya,"KCE 16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-18
 KCE-SWBUG-4944,Promanager - Both GCD and GCH shows like GC when the SW binary is uploaded in promanager ,Vivek,"16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-17
+KCE-SWBUG-4953,16.8 - DG goes to offline mode for long time after failing the dg.customization.zip update,Vivek,16.8.1.3(LD 16.8.1.2 GCD 16.8.38),2024-11-20
