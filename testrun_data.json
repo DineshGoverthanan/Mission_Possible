@@ -8778,6 +8778,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-20",
+        "Document Key":"KCE-TSTRN-3644236",
+        "Name":"26.Door open output",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611037",
@@ -10003,8 +10010,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-21",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644359",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
         "Assigned To":"Jagadeesh"
@@ -10017,8 +10024,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-19",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3633417",
         "Name":"1. CBS - Automatic",
         "Assigned To":"Suryanarayanan"

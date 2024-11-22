@@ -103,4 +103,4 @@ KCE-SWBUG-4943,"16.8 - BSW and EZO+COD -  Power cycle/ Emergency stop, The drive
 KCE-SWBUG-4944,Promanager - Both GCD and GCH shows like GC when the SW binary is uploaded in promanager ,Vivek,"16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-17
 KCE-SWBUG-4953,16.8 - DG goes to offline mode for long time after failing the dg.customization.zip update,Vivek,16.8.1.3(LD 16.8.1.2 GCD 16.8.38),2024-11-20
 KCE-SWBUG-4957,4.5 SERVICE TOOL - KCE PDX DRIVE FAULT CODE #3107 DESCRIPTION MISSING,ARUN KUMAR,Promanager 4.5.213.6846,2024-11-19
-KCE-SWBUG-4959,"DSM value 61(drive mode) not changing based on elevator modes in KDL, KDM, and KDX. ",ARUN KUMAR,16.8.1.3,2024-11-20
+KCE-SWBUG-4959,"DSM value 61(drive mode) not changing based on elevator modes in KDL, KDM, and KDX drives. ",ARUN KUMAR,16.8.1.3,2024-11-20
