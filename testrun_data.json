@@ -10010,7 +10010,7 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"FAILED",
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644359",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
@@ -10028,6 +10028,55 @@
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3633417",
         "Name":"1. CBS - Automatic",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633418",
+        "Name":"2. CBS - Warning Fault activation",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633419",
+        "Name":"3. CBS - After Warning fault activation",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633420",
+        "Name":"4. CBS - Empty Battery fault activation",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633421",
+        "Name":"5. CBS - FC1611 fault action when 1499=0",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633422",
+        "Name":"6. CBS - FC1611 fault action when 1499 =1 (Floor level)",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633423",
+        "Name":"7. CBS - FC 1611 action when 1499 = 1 (Driving)",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-22",
+        "Document Key":"KCE-TSTRN-3633424",
+        "Name":"8. CBS - Overrides FC1611 in high priority modes",
         "Assigned To":"Suryanarayanan"
     },
     {
