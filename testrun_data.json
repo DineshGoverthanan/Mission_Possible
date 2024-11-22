@@ -8624,8 +8624,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-21",
         "Document Key":"KCE-TSTRN-3644230",
         "Name":"10.1772 Fault recovery with different modes",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8680,8 +8680,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-21",
         "Document Key":"KCE-TSTRN-3644232",
         "Name":"17.Breakdown scenario by Special modes:",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8708,8 +8708,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-21",
         "Document Key":"KCE-TSTRN-3644233",
         "Name":"20.Battery Low Logic signal fault with special mode",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8736,9 +8736,23 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-21",
+        "Document Key":"KCE-TSTRN-3644234",
+        "Name":"23.Mode priority1",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611034",
+        "Name":"24.Mode priority2",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-21",
+        "Document Key":"KCE-TSTRN-3644235",
         "Name":"24.Mode priority2",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -9990,7 +10004,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-20",
+        "ExecutionDate":"2024-11-21",
         "Document Key":"KCE-TSTRN-3644359",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
         "Assigned To":"Jagadeesh"
