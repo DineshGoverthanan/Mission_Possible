@@ -3,29 +3,34 @@ import pandas as pd
 import os
 
 # Function to extract unique 'assignedTo', 'modifiedBy', and 'createdBy' IDs and return them as a dictionary with names
-def get_user_data(items, user_dict):
+def get_user_data(items,user_dict):
+    # Use a set to collect unique user IDs
+    user_ids = set()
+
     for item in items:
+        # Extract IDs
         assigned_to = dictionary_finder(item, "assignedTo")
         modified_by = dictionary_finder(item, "modifiedBy")
         created_by = dictionary_finder(item, "createdBy")
 
-        # Fetch and store the first name for 'assignedTo'
-        if assigned_to and assigned_to not in user_dict:
-            user_info = client.get_user(assigned_to)
-            if user_info:
-                user_dict[assigned_to] = user_info['firstName']
+        # Add IDs to the set if they are not None
+        if assigned_to:
+            user_ids.add(assigned_to)
+        if modified_by:
+            user_ids.add(modified_by)
+        if created_by:
+            user_ids.add(created_by)
 
-        # Fetch and store the first name for 'modifiedBy'
-        if modified_by and modified_by not in user_dict:
-            user_info = client.get_user(modified_by)
-            if user_info:
-                user_dict[modified_by] = user_info['firstName']
+    # Dictionary to store user information
 
-        # Fetch and store the first name for 'createdBy'
-        if created_by and created_by not in user_dict:
-            user_info = client.get_user(created_by)
+    # Fetch user information for each unique ID
+    for user_id in user_ids:
+        try:
+            user_info = client.get_user(user_id)
             if user_info:
-                user_dict[created_by] = user_info['firstName']
+                user_dict[user_id] = user_info.get("firstName", "Unknown")  # Use "Unknown" if firstName is missing
+        except Exception as e:
+            print(f"Error fetching user info for ID {user_id}: {e}")
 
     return user_dict
 
