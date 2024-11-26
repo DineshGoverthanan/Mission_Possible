@@ -10059,8 +10059,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-26",
         "Document Key":"KCE-TSTRN-3644359",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 1",
         "Assigned To":"Jagadeesh"
@@ -10070,6 +10070,27 @@
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644360",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 2",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-26",
+        "Document Key":"KCE-TSTRN-3644369",
+        "Name":"Parking symbol in E link",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-26",
+        "Document Key":"KCE-TSTRN-3644370",
+        "Name":"Parameter setting via BUI",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-26",
+        "Document Key":"KCE-TSTRN-3644371",
+        "Name":"PAR 1, PAR 2, PAR 3 enabled in a group",
         "Assigned To":"Jagadeesh"
     },
     {
