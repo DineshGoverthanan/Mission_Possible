@@ -8925,6 +8925,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644238",
+        "Name":"EZO Shaft setup with Single Virtual floor section ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-03",
         "Document Key":"KCE-TSTRN-3583523",
@@ -9037,6 +9044,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644240",
+        "Name":"Rush test case for EZO zone ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3584323",
@@ -9048,6 +9062,13 @@
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585495",
         "Name":"COD operation towards upward direction shaft_A:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644241",
+        "Name":"COD operation towards upward direction shaft_1",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9066,9 +9087,23 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644243",
+        "Name":"COD operation towards downward direction shaft_2: ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585496",
         "Name":"COD operation toward upwards direction shaft_B: ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644244",
+        "Name":"COD operation toward upwards direction shaft_2: ",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9107,6 +9142,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644247",
+        "Name":"COD operation towards updirection with multiple consecutive dummy floors",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-10-14",
         "Document Key":"KCE-TSTRN-3584326",
@@ -9117,6 +9159,13 @@
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585497",
+        "Name":"COD operation towards downwards with multiple consecutive dummy floors",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644248",
         "Name":"COD operation towards downwards with multiple consecutive dummy floors",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -10031,6 +10080,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644292",
+        "Name":"1. CBS - Automatic",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3633418",
@@ -10038,8 +10094,8 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"PASSED",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3633419",
         "Name":"3. CBS - After Warning fault activation",
         "Assigned To":"Suryanarayanan"
@@ -10052,31 +10108,150 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644295",
+        "Name":"4. CBS - Empty Battery fault activation",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3633421",
         "Name":"5. CBS - FC1611 fault action when 1499=0",
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644296",
+        "Name":"5. CBS - FC1611 fault action when 1499=0",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3633422",
         "Name":"6. CBS - FC1611 fault action when 1499 =1 (Floor level)",
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644297",
+        "Name":"6. CBS - FC1611 fault action when 1499 =1 (Floor level)",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3633423",
         "Name":"7. CBS - FC 1611 action when 1499 = 1 (Driving)",
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-22",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644298",
+        "Name":"7. CBS - FC 1611 action when 1499 = 1 (Driving)",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3633424",
         "Name":"8. CBS - Overrides FC1611 in high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644299",
+        "Name":"8. CBS - Overrides FC1611 in high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633425",
+        "Name":"9. CBS - Activate FC1611 during high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644300",
+        "Name":"9. CBS - Activate FC1611 during high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633426",
+        "Name":"10. CBS - FC 1611 stays active after back to high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644301",
+        "Name":"10. CBS - FC 1611 stays active after back to high priority modes",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633427",
+        "Name":"11. CBS - Manual trigger",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644302",
+        "Name":"11. CBS - Manual trigger",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633428",
+        "Name":"12. CBS & ATS - Manual Triggering clock wise",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644303",
+        "Name":"12. CBS & ATS - Manual Triggering clock wise",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633429",
+        "Name":"13. CBS & ATS - Manual triggering anti clock wise",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644304",
+        "Name":"13. CBS & ATS - Manual triggering anti clock wise",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3633430",
+        "Name":"14. CBS - Faults recovery",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-25",
+        "Document Key":"KCE-TSTRN-3644305",
+        "Name":"14. CBS - Faults recovery",
         "Assigned To":"Suryanarayanan"
     },
     {
