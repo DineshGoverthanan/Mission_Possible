@@ -103,7 +103,8 @@ KCE-SWBUG-4943,"16.8 - BSW and EZO+COD -  Power cycle/ Emergency stop, The drive
 KCE-SWBUG-4944,Promanager - Both GCD and GCH shows like GC when the SW binary is uploaded in promanager ,Vivek,"16.8.0.68(LD: 16.8.0.14, GCD: 16.8.38)",2024-11-17
 KCE-SWBUG-4953,16.8 - DG goes to offline mode for long time after failing the dg.customization.zip update,Vivek,16.8.1.3(LD 16.8.1.2 GCD 16.8.38),2024-11-20
 KCE-SWBUG-4957,SERVICE TOOL - KCE PDX DRIVE FAULT CODE #3107 DESCRIPTION MISSING,ARUN KUMAR,Promanager 4.5.213.6846,2024-11-19
-KCE-SWBUG-4959,"DSM value 61(drive mode) not changing based on elevator modes in KDL, KDM, and KDX drives. ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)",2024-11-20
-KCE-SWBUG-4961,"PDX - After power break ""Non service waring"" information fault activated in PDX drive ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)",2024-11-21
+KCE-SWBUG-4959,"DRIVES - DSM value 61(drive mode) not changing based on elevator modes in KDL, KDM, and KDX drives. ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)",2024-11-20
+KCE-SWBUG-4961,"KCEPDX - After power break ""Non service warning"" information fault activated in PDX drive ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)",2024-11-21
 KCE-SWBUG-4962,16.8 - ELO - DOOR open output (KCEOPT 106 output 8) is not working properly,Badaganti Sai Prasad,"16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)",2024-11-21
-KCE-SWBUG-4963,"PDX - In PDX drive, the landing calls are get cancelled ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)  and PDX 24.45",2024-11-14
+KCE-SWBUG-4963,"KCEPDX - In PDX drive, the landing calls are get cancelled ",ARUN KUMAR,"KCE 16.8.1.3(LD: 16.8.1.2, GCD: 16.8.38)  and PDX 24.45",2024-11-14
+KCE-SWBUG-4978,Service Tool - Could not able to connect elevator via AMC With the subcontractor license ,ARUN KUMAR,4.5.219.6840,2024-11-25

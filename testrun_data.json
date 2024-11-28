@@ -9065,8 +9065,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-25",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-27",
         "Document Key":"KCE-TSTRN-3644241",
         "Name":"COD operation towards upward direction shaft_1",
         "Assigned To":"Badaganti Sai Prasad"
@@ -9076,6 +9076,13 @@
         "ExecutionDate":"2024-10-14",
         "Document Key":"KCE-TSTRN-3584356",
         "Name":"COD operation towards downward direction shaft_A: ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-27",
+        "Document Key":"KCE-TSTRN-3644242",
+        "Name":"COD operation towards downward direction shaft_1: ",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9111,6 +9118,13 @@
         "ExecutionDate":"2024-10-10",
         "Document Key":"KCE-TSTRN-3584359",
         "Name":"COD operation toward downwards direction shaft_C",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-27",
+        "Document Key":"KCE-TSTRN-3644245",
+        "Name":"COD operation toward downwards direction shaft_3",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -9180,6 +9194,13 @@
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585499",
+        "Name":"COD operation during EZO floors with FRD return drive ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-27",
+        "Document Key":"KCE-TSTRN-3644249",
         "Name":"COD operation during EZO floors with FRD return drive ",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -9490,6 +9511,13 @@
         "Document Key":"KCE-TSTRN-3633348",
         "Name":"BSW and EZO+COD  with reduce speed drive ",
         "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-27",
+        "Document Key":"KCE-TSTRN-3644260",
+        "Name":"Existing EZO shaft + adding the new virtual zone or Floor numbers ",
+        "Assigned To":"Badaganti Sai Prasad"
     },
     {
         "TestRunStatus":"PASSED",
@@ -9912,6 +9940,20 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-27",
+        "Document Key":"KCE-TSTRN-3652909",
+        "Name":"ACU F - Elevator announcer - KCEACU",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-28",
+        "Document Key":"KCE-TSTRN-3652910",
+        "Name":"ACU F - Elevator announcer - Mp3 files download",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3599383",
@@ -10070,6 +10112,13 @@
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644360",
         "Name":"Group features - HEL - Hospital Emergency service at landings - Phase 2",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-26",
+        "Document Key":"KCE-TSTRN-3644361",
+        "Name":"Group features - PRL and HEL parameters",
         "Assigned To":"Jagadeesh"
     },
     {
