@@ -9121,8 +9121,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-27",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-11-28",
         "Document Key":"KCE-TSTRN-3644245",
         "Name":"COD operation toward downwards direction shaft_3",
         "Assigned To":"Badaganti Sai Prasad"
@@ -9139,6 +9139,13 @@
         "ExecutionDate":"2024-10-24",
         "Document Key":"KCE-TSTRN-3585522",
         "Name":"COD operation towards upward direction shaft_C",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-28",
+        "Document Key":"KCE-TSTRN-3644246",
+        "Name":"COD operation towards upward direction shaft_3",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
