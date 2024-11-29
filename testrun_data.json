@@ -8932,6 +8932,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-29",
+        "Document Key":"KCE-TSTRN-3660738",
+        "Name":"EZO Shaft setup with Single Virtual floor section ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-10-03",
         "Document Key":"KCE-TSTRN-3583523",
@@ -9047,6 +9054,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-25",
         "Document Key":"KCE-TSTRN-3644240",
+        "Name":"Rush test case for EZO zone ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-11-29",
+        "Document Key":"KCE-TSTRN-3660740",
         "Name":"Rush test case for EZO zone ",
         "Assigned To":"Badaganti Sai Prasad"
     },
