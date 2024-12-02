@@ -9058,8 +9058,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-29",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-02",
         "Document Key":"KCE-TSTRN-3660740",
         "Name":"Rush test case for EZO zone ",
         "Assigned To":"Badaganti Sai Prasad"
@@ -9243,6 +9243,13 @@
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-10-25",
         "Document Key":"KCE-TSTRN-3585529",
+        "Name":"Rush test case against EZO & COD functions",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-02",
+        "Document Key":"KCE-TSTRN-3660743",
         "Name":"Rush test case against EZO & COD functions",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -9976,7 +9983,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-11-27",
+        "ExecutionDate":"2024-12-02",
         "Document Key":"KCE-TSTRN-3652909",
         "Name":"ACU F - Elevator announcer - KCEACU",
         "Assigned To":"Shrividhya"
