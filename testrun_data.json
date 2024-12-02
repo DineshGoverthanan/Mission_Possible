@@ -9171,7 +9171,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-11-29",
+        "ExecutionDate":"2024-12-02",
         "Document Key":"KCE-TSTRN-3660742",
         "Name":"COD operation towards upward direction shaft_3",
         "Assigned To":"Badaganti Sai Prasad"
@@ -9464,6 +9464,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-11-29",
+        "Document Key":"KCE-TSTRN-3660747",
+        "Name":"Power cycle scenario with High wind operation",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-04",
         "Document Key":"KCE-TSTRN-3585500",
@@ -9511,6 +9518,13 @@
         "Document Key":"KCE-TSTRN-3611076",
         "Name":"High wind input activation during High priority special mode ",
         "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-02",
+        "Document Key":"KCE-TSTRN-3660748",
+        "Name":"High wind input activation during High priority special mode ",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"FAILED",
@@ -10477,6 +10491,13 @@
         "Document Key":"KCE-TSTRN-3644353",
         "Name":"OSS LR - Out of Service Switch at landing - Door open enabled",
         "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-02",
+        "Document Key":"KCE-TSTRN-3660834",
+        "Name":"OSS LR - Out of Service Switch at landing - Door open enabled",
+        "Assigned To":"Jagadeesh"
     },
     {
         "TestRunStatus":"PASSED",
