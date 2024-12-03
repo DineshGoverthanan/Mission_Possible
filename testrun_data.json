@@ -10493,7 +10493,7 @@
         "Assigned To":"Harini Sri"
     },
     {
-        "TestRunStatus":"FAILED",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-03",
         "Document Key":"KCE-TSTRN-3660834",
         "Name":"OSS LR - Out of Service Switch at landing - Door open enabled",
