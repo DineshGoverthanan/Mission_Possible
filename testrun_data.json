@@ -10494,7 +10494,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-12-02",
+        "ExecutionDate":"2024-12-03",
         "Document Key":"KCE-TSTRN-3660834",
         "Name":"OSS LR - Out of Service Switch at landing - Door open enabled",
         "Assigned To":"Jagadeesh"
