@@ -9520,8 +9520,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-02",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-03",
         "Document Key":"KCE-TSTRN-3660748",
         "Name":"High wind input activation during High priority special mode ",
         "Assigned To":"Suryanarayanan"
@@ -9535,10 +9535,24 @@
     },
     {
         "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3660749",
+        "Name":"High wind input triggered after High priority special mode ",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611078",
         "Name":"Storm operation activation during High priority special mode",
         "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3660750",
+        "Name":"Storm operation activation during High priority special mode",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"FAILED",
@@ -9546,6 +9560,13 @@
         "Document Key":"KCE-TSTRN-3611079",
         "Name":"Special modes are triggered after Storm operation activation.",
         "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3660751",
+        "Name":"Special modes are triggered after Storm operation activation.",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"PASSED",
@@ -9912,6 +9933,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3666599",
+        "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3585950",
@@ -10007,6 +10035,13 @@
         "ExecutionDate":"2024-11-28",
         "Document Key":"KCE-TSTRN-3652910",
         "Name":"ACU F - Elevator announcer - Mp3 files download",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3652911",
+        "Name":"Elevator features - FPO A - Full Collective Peel Off Automatic Feature - FPO feature in group elevators - Tests not included into TA ",
         "Assigned To":"Shrividhya"
     },
     {
@@ -10396,6 +10431,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3660792",
+        "Name":"1. EBD Operation  - Successful counter increased at floor level",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633461",
         "Name":"1. Emergency announcement in announcer - Stuck situation ",
@@ -10519,5 +10561,12 @@
         "Document Key":"KCE-TSTRN-3633490",
         "Name":"PAD S - Parking at pre-defined floor - Separate switch",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-03",
+        "Document Key":"KCE-TSTRN-3660866",
+        "Name":"EAQ - Earthquake mode with EN81-77 code with Draka device - Test sequence",
+        "Assigned To":"ARUN KUMAR"
     }
 ]
