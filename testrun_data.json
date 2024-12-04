@@ -9926,6 +9926,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3666598",
+        "Name":"AMC + SmartConnector 1.0 - Pairing with multiple devices, connectivity related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3585941",
@@ -10039,7 +10046,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-03",
+        "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3652911",
         "Name":"Elevator features - FPO A - Full Collective Peel Off Automatic Feature - FPO feature in group elevators - Tests not included into TA ",
         "Assigned To":"Shrividhya"
