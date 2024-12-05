@@ -10465,6 +10465,20 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-05",
+        "Document Key":"KCE-TSTRN-3660795",
+        "Name":"4. EBD Operation - Success counter value increased while Elevator stuck at floor level",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-05",
+        "Document Key":"KCE-TSTRN-3660796",
+        "Name":"5. EBD Operation - Success counter value increased while Test switch active",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633461",
