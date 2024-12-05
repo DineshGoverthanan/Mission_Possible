@@ -9926,7 +9926,7 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3666598",
         "Name":"AMC + SmartConnector 1.0 - Pairing with multiple devices, connectivity related tests",
@@ -9940,8 +9940,8 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-03",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3666599",
         "Name":"AMC + SmartConnector 1.0 - USB connectivity related tests",
         "Assigned To":"ARUN KUMAR"
@@ -9950,6 +9950,13 @@
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-06",
         "Document Key":"KCE-TSTRN-3585950",
+        "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth - Different supported OS version related tests",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3666600",
         "Name":"AMC 4.5 + SmartConnector 1.0 + Bluetooth - Different supported OS version related tests",
         "Assigned To":"ARUN KUMAR"
     },
@@ -10045,7 +10052,7 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3652911",
         "Name":"Elevator features - FPO A - Full Collective Peel Off Automatic Feature - FPO feature in group elevators - Tests not included into TA ",
@@ -10437,10 +10444,24 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-03",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3660792",
         "Name":"1. EBD Operation  - Successful counter increased at floor level",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3660793",
+        "Name":"2. EBD Operation - Successful counter value increased during elevator moving",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3660794",
+        "Name":"3. EBD Operation - Failure counter value increased while Elevator stuck between floor",
         "Assigned To":"Jagadeesh"
     },
     {
@@ -10519,6 +10540,20 @@
         "Document Key":"KCE-TSTRN-3633479",
         "Name":"10. Emergency voice announcement in ACU- EBD Supervision",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3660830",
+        "Name":"FRD AU1 - Phase 1 with KCECOB and KCECEB - Tests not included into TA",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-04",
+        "Document Key":"KCE-TSTRN-3660831",
+        "Name":"FRD AU1 - Phase 2 with KCECOB and KCECEB - Tests not included into TA",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"PASSED",
