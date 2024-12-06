@@ -110,3 +110,4 @@ KCE-SWBUG-4963,"KCEPDX - In PDX drive, the landing calls are get cancelled ",ARU
 KCE-SWBUG-4978,Service Tool - Could not able to connect elevator via AMC With the subcontractor license ,ARUN KUMAR,4.5.219.6840,2024-11-25
 KCE-SWBUG-4992,4.5 - Service Tool - AES Mode Indication NOT Shown in E-Link,Suryanarayanan,"KCE 16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-01
 KCE-SWBUG-5001,16.8 - AES - KNSMUL Board Shuts OFF power to Buttons & Display when AES is Enabled in HIGH RISE SETUP,Suryanarayanan,"KCE 16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-02
+KCE-SWBUG-5009,16.8 - Unwanted drive is happening after correction drive when WSC is triggered.(High rise with EZO).,Badaganti Sai Prasad,"16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-03

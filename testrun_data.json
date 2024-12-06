@@ -9248,7 +9248,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-12-02",
+        "ExecutionDate":"2024-12-05",
         "Document Key":"KCE-TSTRN-3660743",
         "Name":"Rush test case against EZO & COD functions",
         "Assigned To":"Badaganti Sai Prasad"
@@ -10480,6 +10480,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-05",
+        "Document Key":"KCE-TSTRN-3660797",
+        "Name":"6. EBD operation - Success counter increased during special modes",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633461",
         "Name":"1. Emergency announcement in announcer - Stuck situation ",
@@ -10556,15 +10563,15 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-04",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-05",
         "Document Key":"KCE-TSTRN-3660830",
         "Name":"FRD AU1 - Phase 1 with KCECOB and KCECEB - Tests not included into TA",
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-04",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-05",
         "Document Key":"KCE-TSTRN-3660831",
         "Name":"FRD AU1 - Phase 2 with KCECOB and KCECEB - Tests not included into TA",
         "Assigned To":"Suryanarayanan"
