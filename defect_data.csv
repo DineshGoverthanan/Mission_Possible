@@ -112,3 +112,4 @@ KCE-SWBUG-4992,4.5 - Service Tool - AES Mode Indication NOT Shown in E-Link,Sury
 KCE-SWBUG-5001,16.8 - AES - KNSMUL Board Shuts OFF power to Buttons & Display when AES is Enabled in HIGH RISE SETUP,Suryanarayanan,"KCE 16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-02
 KCE-SWBUG-5009,16.8 - Unwanted drive is happening after correction drive when WSC is triggered.(High rise with EZO).,Badaganti Sai Prasad,"16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-03
 KCE-SWBUG-5011,SC Redundancy: Network view (β) and core spec (β) is missing in the SM 10.32.1.1,Vivek,"16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-05
+KCE-SWBUG-5012,SC Redundancy: Unknown fault [1040] generated in the master SC and master GCH ,Vivek,"16.8.2.4(LD: 16.8.2.1, GCD: 16.8.50)",2024-12-05

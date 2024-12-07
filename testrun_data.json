@@ -10479,10 +10479,17 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-05",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-06",
         "Document Key":"KCE-TSTRN-3660797",
         "Name":"6. EBD operation - Success counter increased during special modes",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-06",
+        "Document Key":"KCE-TSTRN-3660798",
+        "Name":"7. EBD Operation - Success counter value increased during FRD mode",
         "Assigned To":"Jagadeesh"
     },
     {
