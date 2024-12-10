@@ -10571,7 +10571,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-12-05",
+        "ExecutionDate":"2024-12-09",
         "Document Key":"KCE-TSTRN-3660830",
         "Name":"FRD AU1 - Phase 1 with KCECOB and KCECEB - Tests not included into TA",
         "Assigned To":"Suryanarayanan"
@@ -10581,6 +10581,13 @@
         "ExecutionDate":"2024-12-05",
         "Document Key":"KCE-TSTRN-3660831",
         "Name":"FRD AU1 - Phase 2 with KCECOB and KCECEB - Tests not included into TA",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-09",
+        "Document Key":"KCE-TSTRN-3660832",
+        "Name":"FRD Output - Parameter 1448 operation for Shandong China - with KCEOPT IO",
         "Assigned To":"Suryanarayanan"
     },
     {
