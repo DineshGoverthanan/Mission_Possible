@@ -10619,6 +10619,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-12",
+        "Document Key":"KCE-TSTRN-3683706",
+        "Name":"FRD Output - Parameter 1448 operation for Shandong China - with KCECPU IO",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633484",
