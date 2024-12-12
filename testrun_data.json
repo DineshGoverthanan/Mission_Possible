@@ -10676,6 +10676,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-12",
+        "Document Key":"KCE-TSTRN-3683735",
+        "Name":"Elevator features - MPB collection method in group operation",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-12-03",
         "Document Key":"KCE-TSTRN-3660866",
         "Name":"EAQ - Earthquake mode with EN81-77 code with Draka device - Test sequence",
