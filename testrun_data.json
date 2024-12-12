@@ -10248,6 +10248,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-11",
+        "Document Key":"KCE-TSTRN-3644391",
+        "Name":"Normal landing call - Echoing between KCEPIO-risers",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3633417",
@@ -10452,6 +10459,20 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-11",
+        "Document Key":"KCE-TSTRN-3683670",
+        "Name":"3.When parameter 281 is set 2",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-11",
+        "Document Key":"KCE-TSTRN-3683671",
+        "Name":"4.Extra board connected to LON",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-04",
         "Document Key":"KCE-TSTRN-3660792",
         "Name":"1. EBD Operation  - Successful counter increased at floor level",
@@ -10591,8 +10612,8 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-10",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-11",
         "Document Key":"KCE-TSTRN-3660832",
         "Name":"FRD Output - Parameter 1448 operation for Shandong China - with KCEOPT IO",
         "Assigned To":"Suryanarayanan"
@@ -10652,5 +10673,12 @@
         "Document Key":"KCE-TSTRN-3660866",
         "Name":"EAQ - Earthquake mode with EN81-77 code with Draka device - Test sequence",
         "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-11",
+        "Document Key":"KCE-TSTRN-3681676",
+        "Name":"E-link5 for KCE - OPC DAS (old)",
+        "Assigned To":"Jagadeesh"
     }
 ]
