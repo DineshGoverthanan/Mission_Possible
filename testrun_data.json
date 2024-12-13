@@ -8673,6 +8673,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-12",
+        "Document Key":"KCE-TSTRN-3683614",
+        "Name":"16.Breakdown scenario by Safety faults\/struck situation:",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-19",
         "Document Key":"KCE-TSTRN-3633316",
@@ -8744,6 +8751,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-12",
+        "Document Key":"KCE-TSTRN-3683615",
+        "Name":"23.Mode priority1",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-11-11",
         "Document Key":"KCE-TSTRN-3611034",
         "Name":"24.Mode priority2",
@@ -8781,6 +8795,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644236",
+        "Name":"26.Door open output",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-12",
+        "Document Key":"KCE-TSTRN-3683617",
         "Name":"26.Door open output",
         "Assigned To":"Badaganti Sai Prasad"
     },
