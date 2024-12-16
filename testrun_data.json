@@ -10640,6 +10640,13 @@
         "Assigned To":"Suryanarayanan"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-16",
+        "Document Key":"KCE-TSTRN-3683705",
+        "Name":"FRD Output - Parameter 1448 operation for Shandong China - with KCEOPT IO",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-12-12",
         "Document Key":"KCE-TSTRN-3683706",
@@ -10708,6 +10715,13 @@
         "Document Key":"KCE-TSTRN-3660866",
         "Name":"EAQ - Earthquake mode with EN81-77 code with Draka device - Test sequence",
         "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-16",
+        "Document Key":"KCE-TSTRN-3683747",
+        "Name":"ERD Battery Supervision Fault recovery situation",
+        "Assigned To":"Shrividhya"
     },
     {
         "TestRunStatus":"INPROGRESS",
