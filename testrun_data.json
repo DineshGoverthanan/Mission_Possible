@@ -10066,6 +10066,13 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-17",
+        "Document Key":"KCE-TSTRN-3702493",
+        "Name":"ACU F - Elevator announcer - KCEACU",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-28",
         "Document Key":"KCE-TSTRN-3652910",
@@ -10745,8 +10752,8 @@
         "Assigned To":"Harini Sri"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-11",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-17",
         "Document Key":"KCE-TSTRN-3681676",
         "Name":"E-link5 for KCE - OPC DAS (old)",
         "Assigned To":"Jagadeesh"
