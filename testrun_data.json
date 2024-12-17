@@ -10270,6 +10270,20 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-17",
+        "Document Key":"KCE-TSTRN-3683726",
+        "Name":"Drive Past Prevention - Basic - upwards",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-17",
+        "Document Key":"KCE-TSTRN-3683727",
+        "Name":"Drive Past Prevention - Basic - downwards",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-12-11",
         "Document Key":"KCE-TSTRN-3644391",
         "Name":"Normal landing call - Echoing between KCEPIO-risers",
