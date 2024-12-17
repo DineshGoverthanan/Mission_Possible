@@ -10725,6 +10725,13 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-16",
+        "Document Key":"KCE-TSTRN-3683758",
+        "Name":"GOC ET - Acoustic device for arrival on car, twice for down direction",
+        "Assigned To":"Harini Sri"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-12-11",
         "Document Key":"KCE-TSTRN-3681676",
         "Name":"E-link5 for KCE - OPC DAS (old)",
