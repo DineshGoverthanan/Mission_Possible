@@ -10081,7 +10081,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-17",
+        "ExecutionDate":"2024-12-18",
         "Document Key":"KCE-TSTRN-3702493",
         "Name":"ACU F - Elevator announcer - KCEACU",
         "Assigned To":"Shrividhya"
@@ -10575,6 +10575,48 @@
         "Document Key":"KCE-TSTRN-3660798",
         "Name":"7. EBD Operation - Success counter value increased during FRD mode",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683683",
+        "Name":"EBS - Emergency Battery Supply - 1. Basic",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683684",
+        "Name":"EBS - Emergency Battery Supply - 2. Disable battery supervision",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683685",
+        "Name":"EBS - Emergency Battery Supply - 3. Battery test",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683686",
+        "Name":"EBS - Emergency Battery Supply - 4. Battery voltage",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683687",
+        "Name":"EBS - Emergency Battery Supply - 5. EN81-28 Battery stress test",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683688",
+        "Name":"EBS - Emergency Battery Supply - 6. EN81-28 Battery temperature monitoring",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"INPROGRESS",
