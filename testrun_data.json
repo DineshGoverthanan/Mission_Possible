@@ -8267,6 +8267,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-17",
+        "Document Key":"KCE-TSTRN-3683609",
+        "Name":"Inspection drive with 1801 Fault code",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633299",
@@ -8750,8 +8757,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-16",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-17",
         "Document Key":"KCE-TSTRN-3683615",
         "Name":"23.Mode priority1",
         "Assigned To":"Badaganti Sai Prasad"
@@ -8767,6 +8774,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-11-22",
         "Document Key":"KCE-TSTRN-3644235",
+        "Name":"24.Mode priority2",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-17",
+        "Document Key":"KCE-TSTRN-3683616",
         "Name":"24.Mode priority2",
         "Assigned To":"Badaganti Sai Prasad"
     },
@@ -10746,7 +10760,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-16",
+        "ExecutionDate":"2024-12-17",
         "Document Key":"KCE-TSTRN-3683758",
         "Name":"GOC ET - Acoustic device for arrival on car, twice for down direction",
         "Assigned To":"Harini Sri"
