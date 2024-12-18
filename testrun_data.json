@@ -10739,7 +10739,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-12",
+        "ExecutionDate":"2024-12-18",
         "Document Key":"KCE-TSTRN-3683735",
         "Name":"Elevator features - MPB collection method in group operation",
         "Assigned To":"ARUN KUMAR"
@@ -10759,8 +10759,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-17",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-18",
         "Document Key":"KCE-TSTRN-3683758",
         "Name":"GOC ET - Acoustic device for arrival on car, twice for down direction",
         "Assigned To":"Harini Sri"
