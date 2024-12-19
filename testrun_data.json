@@ -10087,8 +10087,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-18",
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3702493",
         "Name":"ACU F - Elevator announcer - KCEACU",
         "Assigned To":"Shrividhya"
@@ -10305,14 +10305,21 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-17",
+        "ExecutionDate":"2024-12-19",
+        "Document Key":"KCE-TSTRN-3683723",
+        "Name":"Elevator features - Passenger in car related",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683726",
         "Name":"Drive Past Prevention - Basic - upwards",
         "Assigned To":"ARUN KUMAR"
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-17",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683727",
         "Name":"Drive Past Prevention - Basic - downwards",
         "Assigned To":"ARUN KUMAR"
@@ -10591,15 +10598,15 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-12-18",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683683",
         "Name":"EBS - Emergency Battery Supply - 1. Basic",
         "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-18",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683684",
         "Name":"EBS - Emergency Battery Supply - 2. Disable battery supervision",
         "Assigned To":"Suryanarayanan"
