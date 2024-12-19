@@ -10277,9 +10277,16 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-18",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683709",
         "Name":"Group features - PRL and HEL parameters",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-19",
+        "Document Key":"KCE-TSTRN-3683710",
+        "Name":"Group features - PRL and HEL - Special",
         "Assigned To":"Jagadeesh"
     },
     {
@@ -10605,7 +10612,7 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683684",
         "Name":"EBS - Emergency Battery Supply - 2. Disable battery supervision",
