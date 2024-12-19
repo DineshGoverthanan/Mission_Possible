@@ -8295,6 +8295,13 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683610",
+        "Name":"EBD and LON network scenario with power loss",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-15",
         "Document Key":"KCE-TSTRN-3633301",
@@ -10269,6 +10276,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-18",
+        "Document Key":"KCE-TSTRN-3683709",
+        "Name":"Group features - PRL and HEL parameters",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-26",
         "Document Key":"KCE-TSTRN-3644369",
@@ -10577,7 +10591,7 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-12-18",
         "Document Key":"KCE-TSTRN-3683683",
         "Name":"EBS - Emergency Battery Supply - 1. Basic",
@@ -10780,7 +10794,7 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-18",
         "Document Key":"KCE-TSTRN-3683735",
         "Name":"Elevator features - MPB collection method in group operation",
