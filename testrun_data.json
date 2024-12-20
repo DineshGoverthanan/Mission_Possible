@@ -10619,15 +10619,15 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-18",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683685",
         "Name":"EBS - Emergency Battery Supply - 3. Battery test",
         "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-18",
+        "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683686",
         "Name":"EBS - Emergency Battery Supply - 4. Battery voltage",
         "Assigned To":"Suryanarayanan"
