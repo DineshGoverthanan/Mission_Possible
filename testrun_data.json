@@ -9940,10 +9940,17 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683635",
         "Name":"EPS S and EPD - Emergency power sequencer and Drive - Separate - Basic - Tests not included into TA",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683636",
+        "Name":"EPS S and EPD - Emergency power sequencer and Drive - Separate - Advance signal and special - Tests not included into TA",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
@@ -10668,10 +10675,17 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683689",
         "Name":"1. Emergency announcement in announcer - Stuck situation ",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683690",
+        "Name":"2. Emergency announcement in announcer - Rescue situation",
         "Assigned To":"Shrividhya"
     },
     {
