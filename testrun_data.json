@@ -10290,15 +10290,15 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-19",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683709",
         "Name":"Group features - PRL and HEL parameters",
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-19",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683710",
         "Name":"Group features - PRL and HEL - Special",
         "Assigned To":"Jagadeesh"
@@ -10563,8 +10563,8 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-11",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683671",
         "Name":"4.Extra board connected to LON",
         "Assigned To":"Badaganti Sai Prasad"
@@ -10689,6 +10689,41 @@
         "Assigned To":"Shrividhya"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683691",
+        "Name":"3. Emergency announcement in announcer - Inspection mode",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683693",
+        "Name":"5.Emergency announcement in announcer- Special modes",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683694",
+        "Name":"6. Emergency announcement in announcer - Door Zones",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683696",
+        "Name":"8. Emergency announcement in announcer - Mode change",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683697",
+        "Name":"9. Emergency announcement in announcer - Comes out from inspection mode",
+        "Assigned To":"Shrividhya"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-11-14",
         "Document Key":"KCE-TSTRN-3633471",
@@ -10715,6 +10750,13 @@
         "Document Key":"KCE-TSTRN-3633474",
         "Name":"4. Emergency Announcement in ACU - Inspection mode activation during Emergency announcement",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-20",
+        "Document Key":"KCE-TSTRN-3683700",
+        "Name":"4. Emergency Announcement in ACU - Inspection mode activation during Emergency announcement",
+        "Assigned To":"Shrividhya"
     },
     {
         "TestRunStatus":"INPROGRESS",
