@@ -10682,8 +10682,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683690",
         "Name":"2. Emergency announcement in announcer - Rescue situation",
         "Assigned To":"Shrividhya"
@@ -10710,8 +10710,8 @@
         "Assigned To":"Shrividhya"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-20",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683696",
         "Name":"8. Emergency announcement in announcer - Mode change",
         "Assigned To":"Shrividhya"
@@ -10721,6 +10721,13 @@
         "ExecutionDate":"2024-12-20",
         "Document Key":"KCE-TSTRN-3683697",
         "Name":"9. Emergency announcement in announcer - Comes out from inspection mode",
+        "Assigned To":"Shrividhya"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
+        "Document Key":"KCE-TSTRN-3683698",
+        "Name":"10. Emergency voice announcement in announcer - EBD Supervision",
         "Assigned To":"Shrividhya"
     },
     {
