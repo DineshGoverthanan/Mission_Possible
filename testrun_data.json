@@ -10326,7 +10326,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-19",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683723",
         "Name":"Elevator features - Passenger in car related",
         "Assigned To":"ARUN KUMAR"
@@ -10760,7 +10760,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-20",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683700",
         "Name":"4. Emergency Announcement in ACU - Inspection mode activation during Emergency announcement",
         "Assigned To":"Shrividhya"
@@ -10804,6 +10804,13 @@
         "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-12-09",
         "Document Key":"KCE-TSTRN-3660830",
+        "Name":"FRD AU1 - Phase 1 with KCECOB and KCECEB - Tests not included into TA",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-23",
+        "Document Key":"KCE-TSTRN-3683704",
         "Name":"FRD AU1 - Phase 1 with KCECOB and KCECEB - Tests not included into TA",
         "Assigned To":"Suryanarayanan"
     },
