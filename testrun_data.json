@@ -10619,6 +10619,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-24",
+        "Document Key":"KCE-TSTRN-3683675",
+        "Name":"10. EBD success failure counter during inspection modes",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-19",
         "Document Key":"KCE-TSTRN-3683683",
@@ -10904,6 +10911,13 @@
         "Document Key":"KCE-TSTRN-3660866",
         "Name":"EAQ - Earthquake mode with EN81-77 code with Draka device - Test sequence",
         "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-24",
+        "Document Key":"KCE-TSTRN-3683743",
+        "Name":"FRD T EN 81-72 - Phase 2 - 2015 code - Different COP variations with KCECOB+CEB signalisation",
+        "Assigned To":"Suryanarayanan"
     },
     {
         "TestRunStatus":"INPROGRESS",
