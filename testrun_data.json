@@ -10332,15 +10332,15 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-19",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683726",
         "Name":"Drive Past Prevention - Basic - upwards",
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-19",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683727",
         "Name":"Drive Past Prevention - Basic - downwards",
         "Assigned To":"ARUN KUMAR"
@@ -10836,8 +10836,8 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-12",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-23",
         "Document Key":"KCE-TSTRN-3683706",
         "Name":"FRD Output - Parameter 1448 operation for Shandong China - with KCECPU IO",
         "Assigned To":"Suryanarayanan"
