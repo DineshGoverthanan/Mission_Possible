@@ -10620,7 +10620,7 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-24",
+        "ExecutionDate":"2024-12-26",
         "Document Key":"KCE-TSTRN-3683675",
         "Name":"10. EBD success failure counter during inspection modes",
         "Assigned To":"Jagadeesh"
@@ -10939,5 +10939,26 @@
         "Document Key":"KCE-TSTRN-3681676",
         "Name":"E-link5 for KCE - OPC DAS (old)",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3719948",
+        "Name":"CDI Locking symbol in Elink view",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3719946",
+        "Name":"Normal calls with nearby CDI locked floors ",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3719945",
+        "Name":"KCEOPT 85 disconnected from LON node ",
+        "Assigned To":"ARUN KUMAR"
     }
 ]
