@@ -10346,6 +10346,20 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3683728",
+        "Name":"Drive Past Prevention  - Full load",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3683729",
+        "Name":"Drive Past Prevention  - Advanced position case",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
         "TestRunStatus":"INPROGRESS",
         "ExecutionDate":"2024-12-11",
         "Document Key":"KCE-TSTRN-3644391",
@@ -11002,5 +11016,12 @@
         "Document Key":"KCE-TSTRN-3719945",
         "Name":"KCEOPT 85 disconnected from LON node ",
         "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719957",
+        "Name":"CDM Activation phase1 with different floor combination",
+        "Assigned To":"Badaganti Sai Prasad"
     }
 ]
