@@ -10619,10 +10619,24 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3683673",
+        "Name":"8. EBD operation - Failure Counter value increment",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-26",
         "Document Key":"KCE-TSTRN-3683675",
         "Name":"10. EBD success failure counter during inspection modes",
+        "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3683680",
+        "Name":"15. EBD Failure count increased during abnormal shutdown",
         "Assigned To":"Jagadeesh"
     },
     {
@@ -10914,7 +10928,14 @@
     },
     {
         "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-24",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3683742",
+        "Name":"FRD T EN 81-72 - Phase 2 - 2015 code - Different COP variations",
+        "Assigned To":"Suryanarayanan"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
         "Document Key":"KCE-TSTRN-3683743",
         "Name":"FRD T EN 81-72 - Phase 2 - 2015 code - Different COP variations with KCECOB+CEB signalisation",
         "Assigned To":"Suryanarayanan"
@@ -10945,6 +10966,13 @@
         "ExecutionDate":"2024-12-26",
         "Document Key":"KCE-TSTRN-3719948",
         "Name":"CDI Locking symbol in Elink view",
+        "Assigned To":"ARUN KUMAR"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-26",
+        "Document Key":"KCE-TSTRN-3719947",
+        "Name":"CDI mode priority with car light supervision fault ",
         "Assigned To":"ARUN KUMAR"
     },
     {
