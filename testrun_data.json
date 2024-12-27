@@ -10633,8 +10633,8 @@
         "Assigned To":"Jagadeesh"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-26",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3683680",
         "Name":"15. EBD Failure count increased during abnormal shutdown",
         "Assigned To":"Jagadeesh"
@@ -10960,6 +10960,20 @@
         "Document Key":"KCE-TSTRN-3681676",
         "Name":"E-link5 for KCE - OPC DAS (old)",
         "Assigned To":"Jagadeesh"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719944",
+        "Name":"SWL KCE OPT85 Disconnected",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719943",
+        "Name":"SWL KCE OPT85 activated shortly ",
+        "Assigned To":"Badaganti Sai Prasad"
     },
     {
         "TestRunStatus":"PASSED",
