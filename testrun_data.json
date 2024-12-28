@@ -10647,6 +10647,13 @@
         "Assigned To":"Jagadeesh"
     },
     {
+        "TestRunStatus":"INPROGRESS",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3683678",
+        "Name":"13. EBD success counter with SSB Device",
+        "Assigned To":"Jagadeesh"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3683680",
@@ -10941,8 +10948,8 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
-        "ExecutionDate":"2024-12-26",
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3683742",
         "Name":"FRD T EN 81-72 - Phase 2 - 2015 code - Different COP variations",
         "Assigned To":"Suryanarayanan"
@@ -11018,10 +11025,31 @@
         "Assigned To":"ARUN KUMAR"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3719957",
         "Name":"CDM Activation phase1 with different floor combination",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719954",
+        "Name":"CDM Activation phase1 with Display operation.",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719953",
+        "Name":"CDM activation and normal landing calls ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-27",
+        "Document Key":"KCE-TSTRN-3719949",
+        "Name":"Service Tool indication with CDM service ",
         "Assigned To":"Badaganti Sai Prasad"
     }
 ]
