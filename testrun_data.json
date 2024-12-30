@@ -11032,6 +11032,13 @@
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
+        "TestRunStatus":"FAILED",
+        "ExecutionDate":"2024-12-30",
+        "Document Key":"KCE-TSTRN-3719955",
+        "Name":"CDM Activation phase1 with Button operation ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
         "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3719954",
