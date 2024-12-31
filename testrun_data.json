@@ -8149,7 +8149,7 @@
     },
     {
         "TestRunStatus":"FAILED",
-        "ExecutionDate":"2024-12-30",
+        "ExecutionDate":"2024-12-31",
         "Document Key":"KCE-TSTRN-3683583",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
         "Assigned To":"Suryanarayanan"
@@ -10988,6 +10988,13 @@
         "Document Key":"KCE-TSTRN-3683759",
         "Name":"GOH-IT - Acoustic Device for Car Doors Opening - Handicapped - Italy",
         "Assigned To":"Priyavalli"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-31",
+        "Document Key":"KCE-TSTRN-3720432",
+        "Name":"GOH-IT - Acoustic Device for Car Doors Opening - Handicapped - Italy",
+        "Assigned To":"Harini Sri"
     },
     {
         "TestRunStatus":"PASSED",
