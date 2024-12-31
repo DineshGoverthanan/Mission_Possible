@@ -8148,7 +8148,7 @@
         "Assigned To":"Suryanarayanan"
     },
     {
-        "TestRunStatus":"INPROGRESS",
+        "TestRunStatus":"FAILED",
         "ExecutionDate":"2024-12-30",
         "Document Key":"KCE-TSTRN-3683583",
         "Name":"KNSMUL COP functions with 126 Floors_Keypad COP",
@@ -10984,6 +10984,13 @@
     },
     {
         "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-30",
+        "Document Key":"KCE-TSTRN-3683759",
+        "Name":"GOH-IT - Acoustic Device for Car Doors Opening - Handicapped - Italy",
+        "Assigned To":"Priyavalli"
+    },
+    {
+        "TestRunStatus":"PASSED",
         "ExecutionDate":"2024-12-17",
         "Document Key":"KCE-TSTRN-3681676",
         "Name":"E-link5 for KCE - OPC DAS (old)",
@@ -11057,6 +11064,13 @@
         "ExecutionDate":"2024-12-27",
         "Document Key":"KCE-TSTRN-3719953",
         "Name":"CDM activation and normal landing calls ",
+        "Assigned To":"Badaganti Sai Prasad"
+    },
+    {
+        "TestRunStatus":"PASSED",
+        "ExecutionDate":"2024-12-30",
+        "Document Key":"KCE-TSTRN-3719951",
+        "Name":"PRL H\/HEL, FID, WSC and other high-priority modes override CDM.",
         "Assigned To":"Badaganti Sai Prasad"
     },
     {
