@@ -55,8 +55,8 @@ def dictionary_finder(dictionary, key_to_find):
 host_domain = "https://konerqm.jamacloud.com"
 Testrun_filter_id = 6261
 Defect_filter_id = 6017
-client_ID = os.getenv("JAMA_CLIENT_ID")
-client_Secret = os.getenv("JAMA_CLIENT_SECRET")
+CLIENT_ID = os.getenv("JAMA_CLIENT_ID")
+CLIENT_SECRET = os.getenv("JAMA_CLIENT_SECRET")
 client = JamaClient(
     host_domain=host_domain,
     credentials=(client_ID, client_Secret),
